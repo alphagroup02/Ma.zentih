@@ -1,0 +1,1387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://mazentih.shop/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://mazentih.shop/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://mazentih.shop/collections/oversize-vintage-tshirt.atom"/>
+  <title>MA ZENTIH</title>
+  <updated>2024-10-30T15:12:02+01:00</updated>
+  <author>
+    <name>MA ZENTIH</name>
+  </author>
+  <entry>
+    <id>https://mazentih.shop/products/7518563205326</id>
+    <published>2024-10-30T15:12:02+01:00</published>
+    <updated>2024-10-30T15:12:02+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://mazentih.shop/products/designer-washed-cotton-mens-fitness-t-shirt-angel-skull-pattern-printed-short-sleeve-loose-crew-neck-sports-shirt-clothing-men"/>
+    <title>Myth OverSize Vintage T-Shirt</title>
+    <s:type></s:type>
+    <s:vendor>MA ZENTIH</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0637/0944/6350/files/photo_2024-10-30_14-54-18.jpg?v=1730297396"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MA ZENTIH<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            38.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><img data-cke-saved-src="https://ae01.alicdn.com/kf/Sb811d16eafa54ece803790038d9f8e6eJ.jpg" src="https://ae01.alicdn.com/kf/Sb811d16eafa54ece803790038d9f8e6eJ.jpg"></p>
+<p><br></p>
+<p><img data-cke-saved-src="https://ae01.alicdn.com/kf/Se9ae2287759f4988a4ddf69812cb7335l.jpg" src="https://ae01.alicdn.com/kf/Se9ae2287759f4988a4ddf69812cb7335l.jpg"><img data-cke-saved-src="https://ae01.alicdn.com/kf/Sc8b5d22b30d14471a61d509b08166822T.jpg" src="https://ae01.alicdn.com/kf/Sc8b5d22b30d14471a61d509b08166822T.jpg"><img data-cke-saved-src="https://ae01.alicdn.com/kf/Sfd216d140b844b06a0ba5706293a0588L.jpg" src="https://ae01.alicdn.com/kf/Sfd216d140b844b06a0ba5706293a0588L.jpg"><img data-cke-saved-src="https://ae01.alicdn.com/kf/S470bfb5484f3494ca4184c99f656f510J.jpg" src="https://ae01.alicdn.com/kf/S470bfb5484f3494ca4184c99f656f510J.jpg"><img data-cke-saved-src="https://ae01.alicdn.com/kf/Se804bf9734214663ade02f1ec2e7f02eI.jpg" src="https://ae01.alicdn.com/kf/Se804bf9734214663ade02f1ec2e7f02eI.jpg"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://mazentih.shop/products/7518563205326</id>
+      <title>Black / L / CN</title>
+      <s:price currency="BRL">38.90</s:price>
+      <s:sku>14:193#black2;200007763:201441035;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7518563205326</id>
+      <title>Black / M / CN</title>
+      <s:price currency="BRL">38.90</s:price>
+      <s:sku>14:193#black2;200007763:201441035;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7518563205326</id>
+      <title>Black / XXL / CN</title>
+      <s:price currency="BRL">38.90</s:price>
+      <s:sku>14:193#black2;200007763:201441035;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7518563205326</id>
+      <title>Black / XL / CN</title>
+      <s:price currency="BRL">38.90</s:price>
+      <s:sku>14:193#black2;200007763:201441035;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7518563205326</id>
+      <title>Black / XXXL / CN</title>
+      <s:price currency="BRL">38.90</s:price>
+      <s:sku>14:193#black2;200007763:201441035;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mazentih.shop/products/7518563238094</id>
+    <published>2024-10-30T15:07:21+01:00</published>
+    <updated>2024-10-30T15:07:21+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://mazentih.shop/products/designer-washed-cotton-mens-fitness-t-shirt-angel-skull-pattern-printed-short-sleeve-loose-crew-neck-sports-shirt-clothing-men-1"/>
+    <title>Vex OverSize Vintage T-Shirt</title>
+    <s:type></s:type>
+    <s:vendor>MA ZENTIH</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0637/0944/6350/files/photo_2024-10-30_14-54-20.jpg?v=1730297159"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MA ZENTIH<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            38.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><img data-cke-saved-src="https://ae01.alicdn.com/kf/Sb811d16eafa54ece803790038d9f8e6eJ.jpg" src="https://ae01.alicdn.com/kf/Sb811d16eafa54ece803790038d9f8e6eJ.jpg"></p>
+<p><br></p>
+<p><img data-cke-saved-src="https://ae01.alicdn.com/kf/Se9ae2287759f4988a4ddf69812cb7335l.jpg" src="https://ae01.alicdn.com/kf/Se9ae2287759f4988a4ddf69812cb7335l.jpg"><img data-cke-saved-src="https://ae01.alicdn.com/kf/Sc8b5d22b30d14471a61d509b08166822T.jpg" src="https://ae01.alicdn.com/kf/Sc8b5d22b30d14471a61d509b08166822T.jpg"><img data-cke-saved-src="https://ae01.alicdn.com/kf/Sfd216d140b844b06a0ba5706293a0588L.jpg" src="https://ae01.alicdn.com/kf/Sfd216d140b844b06a0ba5706293a0588L.jpg"><img data-cke-saved-src="https://ae01.alicdn.com/kf/S470bfb5484f3494ca4184c99f656f510J.jpg" src="https://ae01.alicdn.com/kf/S470bfb5484f3494ca4184c99f656f510J.jpg"><img data-cke-saved-src="https://ae01.alicdn.com/kf/Se804bf9734214663ade02f1ec2e7f02eI.jpg" src="https://ae01.alicdn.com/kf/Se804bf9734214663ade02f1ec2e7f02eI.jpg"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://mazentih.shop/products/7518563238094</id>
+      <title>Black / XL / CN</title>
+      <s:price currency="BRL">38.90</s:price>
+      <s:sku>14:173#black3;200007763:201441035;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7518563238094</id>
+      <title>Black / L / CN</title>
+      <s:price currency="BRL">38.90</s:price>
+      <s:sku>14:173#black3;200007763:201441035;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7518563238094</id>
+      <title>Black / XXXL / CN</title>
+      <s:price currency="BRL">38.90</s:price>
+      <s:sku>14:173#black3;200007763:201441035;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7518563238094</id>
+      <title>Black / XXL / CN</title>
+      <s:price currency="BRL">38.90</s:price>
+      <s:sku>14:173#black3;200007763:201441035;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7518563238094</id>
+      <title>Black / M / CN</title>
+      <s:price currency="BRL">38.90</s:price>
+      <s:sku>14:173#black3;200007763:201441035;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mazentih.shop/products/7518563303630</id>
+    <published>2024-10-30T15:04:14+01:00</published>
+    <updated>2024-10-30T15:04:14+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://mazentih.shop/products/designer-washed-cotton-mens-fitness-t-shirt-angel-skull-pattern-printed-short-sleeve-loose-crew-neck-sports-shirt-clothing-men-2"/>
+    <title>Arc OverSize Vintage T-Shirt</title>
+    <s:type></s:type>
+    <s:vendor>MA ZENTIH</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0637/0944/6350/files/photo_2024-10-30_14-54-19.jpg?v=1730297091"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MA ZENTIH<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            38.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><img data-cke-saved-src="https://ae01.alicdn.com/kf/Sb811d16eafa54ece803790038d9f8e6eJ.jpg" src="https://ae01.alicdn.com/kf/Sb811d16eafa54ece803790038d9f8e6eJ.jpg"></p>
+<p><br></p>
+<p><img data-cke-saved-src="https://ae01.alicdn.com/kf/Se9ae2287759f4988a4ddf69812cb7335l.jpg" src="https://ae01.alicdn.com/kf/Se9ae2287759f4988a4ddf69812cb7335l.jpg"><img data-cke-saved-src="https://ae01.alicdn.com/kf/Sc8b5d22b30d14471a61d509b08166822T.jpg" src="https://ae01.alicdn.com/kf/Sc8b5d22b30d14471a61d509b08166822T.jpg"><img data-cke-saved-src="https://ae01.alicdn.com/kf/Sfd216d140b844b06a0ba5706293a0588L.jpg" src="https://ae01.alicdn.com/kf/Sfd216d140b844b06a0ba5706293a0588L.jpg"><img data-cke-saved-src="https://ae01.alicdn.com/kf/S470bfb5484f3494ca4184c99f656f510J.jpg" src="https://ae01.alicdn.com/kf/S470bfb5484f3494ca4184c99f656f510J.jpg"><img data-cke-saved-src="https://ae01.alicdn.com/kf/Se804bf9734214663ade02f1ec2e7f02eI.jpg" src="https://ae01.alicdn.com/kf/Se804bf9734214663ade02f1ec2e7f02eI.jpg"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://mazentih.shop/products/7518563303630</id>
+      <title>Black / L</title>
+      <s:price currency="BRL">38.90</s:price>
+      <s:sku>14:1254#black4;200007763:201441035;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7518563303630</id>
+      <title>Black / M</title>
+      <s:price currency="BRL">38.90</s:price>
+      <s:sku>14:1254#black4;200007763:201441035;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7518563303630</id>
+      <title>Black / XXL</title>
+      <s:price currency="BRL">38.90</s:price>
+      <s:sku>14:1254#black4;200007763:201441035;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7518563303630</id>
+      <title>Black / XL</title>
+      <s:price currency="BRL">38.90</s:price>
+      <s:sku>14:1254#black4;200007763:201441035;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7518563303630</id>
+      <title>Black / XXXL</title>
+      <s:price currency="BRL">38.90</s:price>
+      <s:sku>14:1254#black4;200007763:201441035;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mazentih.shop/products/7518563369166</id>
+    <published>2024-10-30T15:03:53+01:00</published>
+    <updated>2024-10-30T15:03:53+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://mazentih.shop/products/designer-washed-cotton-mens-fitness-t-shirt-angel-skull-pattern-printed-short-sleeve-loose-crew-neck-sports-shirt-clothing-men-3"/>
+    <title>Hex OverSize Vintage T-Shirt</title>
+    <s:type></s:type>
+    <s:vendor>MA ZENTIH</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0637/0944/6350/files/photo_2024-10-30_14-54-19_2.jpg?v=1730296514"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MA ZENTIH<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            38.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><img data-cke-saved-src="https://ae01.alicdn.com/kf/Sb811d16eafa54ece803790038d9f8e6eJ.jpg" src="https://ae01.alicdn.com/kf/Sb811d16eafa54ece803790038d9f8e6eJ.jpg"></p>
+<p><br></p>
+<p><img data-cke-saved-src="https://ae01.alicdn.com/kf/Se9ae2287759f4988a4ddf69812cb7335l.jpg" src="https://ae01.alicdn.com/kf/Se9ae2287759f4988a4ddf69812cb7335l.jpg"><img data-cke-saved-src="https://ae01.alicdn.com/kf/Sc8b5d22b30d14471a61d509b08166822T.jpg" src="https://ae01.alicdn.com/kf/Sc8b5d22b30d14471a61d509b08166822T.jpg"><img data-cke-saved-src="https://ae01.alicdn.com/kf/Sfd216d140b844b06a0ba5706293a0588L.jpg" src="https://ae01.alicdn.com/kf/Sfd216d140b844b06a0ba5706293a0588L.jpg"><img data-cke-saved-src="https://ae01.alicdn.com/kf/S470bfb5484f3494ca4184c99f656f510J.jpg" src="https://ae01.alicdn.com/kf/S470bfb5484f3494ca4184c99f656f510J.jpg"><img data-cke-saved-src="https://ae01.alicdn.com/kf/Se804bf9734214663ade02f1ec2e7f02eI.jpg" src="https://ae01.alicdn.com/kf/Se804bf9734214663ade02f1ec2e7f02eI.jpg"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://mazentih.shop/products/7518563369166</id>
+      <title>Black / XL</title>
+      <s:price currency="BRL">38.90</s:price>
+      <s:sku>14:173#black3;200007763:201441035;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7518563369166</id>
+      <title>Black / L</title>
+      <s:price currency="BRL">38.90</s:price>
+      <s:sku>14:173#black3;200007763:201441035;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7518563369166</id>
+      <title>Black / XXXL</title>
+      <s:price currency="BRL">38.90</s:price>
+      <s:sku>14:173#black3;200007763:201441035;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7518563369166</id>
+      <title>Black / XXL</title>
+      <s:price currency="BRL">38.90</s:price>
+      <s:sku>14:173#black3;200007763:201441035;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7518563369166</id>
+      <title>Black / M</title>
+      <s:price currency="BRL">38.90</s:price>
+      <s:sku>14:173#black3;200007763:201441035;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mazentih.shop/products/7504319643854</id>
+    <published>2024-10-29T17:56:12+01:00</published>
+    <updated>2024-10-29T17:56:12+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://mazentih.shop/products/mystic-vintage-oversize-tshirt"/>
+    <title>Mystic OverSize Vintage T shirt</title>
+    <s:type></s:type>
+    <s:vendor>MA ZENTIH</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0637/0944/6350/files/photo_2024-10-29_17-52-35_2.jpg?v=1730220811"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MA ZENTIH<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            38.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1> </h1>
+<p><img data-cke-saved-src="https://ae01.alicdn.com/kf/Sb811d16eafa54ece803790038d9f8e6eJ.jpg" src="https://ae01.alicdn.com/kf/Sb811d16eafa54ece803790038d9f8e6eJ.jpg"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://mazentih.shop/products/7504319643854</id>
+      <title>Black / S / CN</title>
+      <s:price currency="BRL">38.90</s:price>
+      <s:sku>14:365458#black5;200007763:201441035;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7504319643854</id>
+      <title>Black / M / CN</title>
+      <s:price currency="BRL">38.90</s:price>
+      <s:sku>14:365458#black5;200007763:201441035;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7504319643854</id>
+      <title>Black / 4XL / CN</title>
+      <s:price currency="BRL">38.90</s:price>
+      <s:sku>14:365458#black5;200007763:201441035;5:200000990</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7504319643854</id>
+      <title>Black / XXL / CN</title>
+      <s:price currency="BRL">38.90</s:price>
+      <s:sku>14:365458#black5;200007763:201441035;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7504319643854</id>
+      <title>Black / XXXL / CN</title>
+      <s:price currency="BRL">38.90</s:price>
+      <s:sku>14:365458#black5;200007763:201441035;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7504319643854</id>
+      <title>Black / L / CN</title>
+      <s:price currency="BRL">38.90</s:price>
+      <s:sku>14:365458#black5;200007763:201441035;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7504319643854</id>
+      <title>Black / XL / CN</title>
+      <s:price currency="BRL">38.90</s:price>
+      <s:sku>14:365458#black5;200007763:201441035;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mazentih.shop/products/7508263862478</id>
+    <published>2024-10-17T22:13:00+01:00</published>
+    <updated>2024-10-17T22:13:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://mazentih.shop/products/no-mercy-oversize-vintage-t-shirt"/>
+    <title>No Mercy Oversize Vintage T-Shirt</title>
+    <s:type></s:type>
+    <s:vendor>MA ZENTIH</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0637/0944/6350/files/photo_2024-10-29_17-52-34_2.jpg?v=1730221099"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MA ZENTIH<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            38.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1> </h1>
+<p> </p>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://mazentih.shop/products/7508263862478</id>
+      <title>Bllack 1 / XXXL / CN</title>
+      <s:price currency="BRL">38.90</s:price>
+      <s:sku>14:1254#black4;200007763:201441035;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7508263862478</id>
+      <title>Bllack 1 / M / CN</title>
+      <s:price currency="BRL">38.90</s:price>
+      <s:sku>14:1254#black4;200007763:201441035;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7508263862478</id>
+      <title>Bllack 1 / L / CN</title>
+      <s:price currency="BRL">38.90</s:price>
+      <s:sku>14:1254#black4;200007763:201441035;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7508263862478</id>
+      <title>Bllack 1 / XL / CN</title>
+      <s:price currency="BRL">38.90</s:price>
+      <s:sku>14:1254#black4;200007763:201441035;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7508263862478</id>
+      <title>Bllack 1 / XXL / CN</title>
+      <s:price currency="BRL">38.90</s:price>
+      <s:sku>14:1254#black4;200007763:201441035;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7508263862478</id>
+      <title>Black  2 / XXL / CN</title>
+      <s:price currency="BRL">38.90</s:price>
+      <s:sku>14:771#black1;200007763:201441035;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7508263862478</id>
+      <title>Black  2 / XXXL / CN</title>
+      <s:price currency="BRL">38.90</s:price>
+      <s:sku>14:771#black1;200007763:201441035;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7508263862478</id>
+      <title>Black  2 / M / CN</title>
+      <s:price currency="BRL">38.90</s:price>
+      <s:sku>14:771#black1;200007763:201441035;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7508263862478</id>
+      <title>Black  2 / L / CN</title>
+      <s:price currency="BRL">38.90</s:price>
+      <s:sku>14:771#black1;200007763:201441035;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7508263862478</id>
+      <title>Black  2 / XL / CN</title>
+      <s:price currency="BRL">38.90</s:price>
+      <s:sku>14:771#black1;200007763:201441035;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mazentih.shop/products/7506194399438</id>
+    <published>2024-10-09T22:42:00+01:00</published>
+    <updated>2024-10-09T22:42:00+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://mazentih.shop/products/skull-energy-oversize-vintage-tshirt-1"/>
+    <title>Skull Domination OverSize Vintage Tshirt</title>
+    <s:type></s:type>
+    <s:vendor>MA ZENTIH</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0637/0944/6350/files/photo_2024-10-29_17-52-33.jpg?v=1730221145"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MA ZENTIH<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            38.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1> </h1>
+<p> </p>
+<p>Size information</p>
+<p><img src="https://ae01.alicdn.com/kf/Sb811d16eafa54ece803790038d9f8e6eJ.jpg"></p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://mazentih.shop/products/7506194399438</id>
+      <title>Black / L / CN</title>
+      <s:price currency="BRL">38.90</s:price>
+      <s:sku>14:365458#black5;200007763:201441035;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7506194399438</id>
+      <title>Black / M / CN</title>
+      <s:price currency="BRL">38.90</s:price>
+      <s:sku>14:365458#black5;200007763:201441035;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7506194399438</id>
+      <title>Black / XXL / CN</title>
+      <s:price currency="BRL">38.90</s:price>
+      <s:sku>14:365458#black5;200007763:201441035;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7506194399438</id>
+      <title>Black / XL / CN</title>
+      <s:price currency="BRL">38.90</s:price>
+      <s:sku>14:365458#black5;200007763:201441035;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7506194399438</id>
+      <title>Black / XXXL / CN</title>
+      <s:price currency="BRL">38.90</s:price>
+      <s:sku>14:365458#black5;200007763:201441035;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mazentih.shop/products/7506166415566</id>
+    <published>2024-10-09T20:16:05+01:00</published>
+    <updated>2024-10-09T20:16:05+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://mazentih.shop/products/retro-y2k-washed-cotton-t-shirt-skull-pattern-printed-shirt-mens-t-shirt-round-neck-casual-fashion-loose-extra-large-size-top-1"/>
+    <title>Echo of Death Oversized Vintage T-shirt</title>
+    <s:type></s:type>
+    <s:vendor>MA ZENTIH</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0637/0944/6350/files/photo_2024-10-29_17-52-31.jpg?v=1730222702"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MA ZENTIH<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            38.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1> </h1>
+<p> </p>
+<div class="detailmodule_text">
+<p align="left" style="font-size: 16px; font-weight: bold; text-align: left; display: block; width: 100%;"><br></p>
+</div>
+<div class="detailmodule_image"><img src="https://ae01.alicdn.com/kf/Sb811d16eafa54ece803790038d9f8e6eJ.jpg" class="detail-desc-decorate-image" slate-data-type="image"></div>
+<div class="detailmodule_text">
+<p align="left" style="font-size: 16px; font-weight: bold; text-align: left; display: block; width: 100%;"><br></p>
+</div>
+<div class="detailmodule_image"><br></div>
+<div class="detailmodule_image"><br></div>
+<div class="detailmodule_image"><br></div>
+<div class="detailmodule_text">
+<p align="left" style="font-size: 16px; font-weight: bold; text-align: left; display: block; width: 100%;"> </p>
+</div>
+<div class="detailmodule_text">
+<p style="font-size: 12px;"> </p>
+</div>
+<div class="detailmodule_text"><br></div>
+<div class="detailmodule_text">
+<p align="left" style="font-size: 16px; text-align: left; display: block; width: 100%;"> </p>
+</div>
+<div class="detailmodule_text"><br></div>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://mazentih.shop/products/7506166415566</id>
+      <title>black / M / CN</title>
+      <s:price currency="BRL">38.90</s:price>
+      <s:sku>14:193#black2;200007763:201441035;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7506166415566</id>
+      <title>black / XL / CN</title>
+      <s:price currency="BRL">38.90</s:price>
+      <s:sku>14:193#black2;200007763:201441035;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7506166415566</id>
+      <title>black / L / CN</title>
+      <s:price currency="BRL">38.90</s:price>
+      <s:sku>14:193#black2;200007763:201441035;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7506166415566</id>
+      <title>black / XXXL / CN</title>
+      <s:price currency="BRL">38.90</s:price>
+      <s:sku>14:193#black2;200007763:201441035;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7506166415566</id>
+      <title>black / XXL / CN</title>
+      <s:price currency="BRL">38.90</s:price>
+      <s:sku>14:193#black2;200007763:201441035;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mazentih.shop/products/7506135777486</id>
+    <published>2024-10-09T16:46:07+01:00</published>
+    <updated>2024-10-09T16:46:07+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://mazentih.shop/products/retro-y2k-washed-cotton-t-shirt-skull-pattern-printed-shirt-mens-t-shirt-round-neck-casual-fashion-loose-extra-large-size-top-6"/>
+    <title>Horror OverSize Vintage T shirt</title>
+    <s:type></s:type>
+    <s:vendor>MA ZENTIH</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0637/0944/6350/files/photo_2024-10-29_17-52-32.jpg?v=1730221873"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MA ZENTIH<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            38.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1> <img data-cke-saved-src="https://ae01.alicdn.com/kf/Sb811d16eafa54ece803790038d9f8e6eJ.jpg" src="https://ae01.alicdn.com/kf/Sb811d16eafa54ece803790038d9f8e6eJ.jpg">
+</h1>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://mazentih.shop/products/7506135777486</id>
+      <title>Black / M / CN</title>
+      <s:price currency="BRL">38.90</s:price>
+      <s:sku>14:1254#black4;200007763:201441035;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7506135777486</id>
+      <title>Black / XL / CN</title>
+      <s:price currency="BRL">38.90</s:price>
+      <s:sku>14:1254#black4;200007763:201441035;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7506135777486</id>
+      <title>Black / L / CN</title>
+      <s:price currency="BRL">38.90</s:price>
+      <s:sku>14:1254#black4;200007763:201441035;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7506135777486</id>
+      <title>Black / XXXL / CN</title>
+      <s:price currency="BRL">38.90</s:price>
+      <s:sku>14:1254#black4;200007763:201441035;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7506135777486</id>
+      <title>Black / XXL / CN</title>
+      <s:price currency="BRL">38.90</s:price>
+      <s:sku>14:1254#black4;200007763:201441035;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mazentih.shop/products/7506135679182</id>
+    <published>2024-10-09T16:46:02+01:00</published>
+    <updated>2024-10-09T16:46:02+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://mazentih.shop/products/retro-y2k-washed-cotton-t-shirt-skull-pattern-printed-shirt-mens-t-shirt-round-neck-casual-fashion-loose-extra-large-size-top-5"/>
+    <title>Death&apos;s Hand OverSize Vintage T shirt</title>
+    <s:type></s:type>
+    <s:vendor>MA ZENTIH</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0637/0944/6350/files/photo_2024-10-29_17-52-25.jpg?v=1730222740"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MA ZENTIH<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            38.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1> </h1>
+<p><img data-cke-saved-src="https://ae01.alicdn.com/kf/Sb811d16eafa54ece803790038d9f8e6eJ.jpg" src="https://ae01.alicdn.com/kf/Sb811d16eafa54ece803790038d9f8e6eJ.jpg"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://mazentih.shop/products/7506135679182</id>
+      <title>Black / XXL / CN</title>
+      <s:price currency="BRL">38.90</s:price>
+      <s:sku>14:173#black3;200007763:201441035;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7506135679182</id>
+      <title>Black / XL / CN</title>
+      <s:price currency="BRL">38.90</s:price>
+      <s:sku>14:173#black3;200007763:201441035;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7506135679182</id>
+      <title>Black / XXXL / CN</title>
+      <s:price currency="BRL">38.90</s:price>
+      <s:sku>14:173#black3;200007763:201441035;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7506135679182</id>
+      <title>Black / L / CN</title>
+      <s:price currency="BRL">38.90</s:price>
+      <s:sku>14:173#black3;200007763:201441035;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7506135679182</id>
+      <title>Black / M / CN</title>
+      <s:price currency="BRL">38.90</s:price>
+      <s:sku>14:173#black3;200007763:201441035;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mazentih.shop/products/7506135613646</id>
+    <published>2024-10-09T16:45:57+01:00</published>
+    <updated>2024-10-09T16:45:57+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://mazentih.shop/products/retro-y2k-washed-cotton-t-shirt-skull-pattern-printed-shirt-mens-t-shirt-round-neck-casual-fashion-loose-extra-large-size-top-4"/>
+    <title>Doomed Souls OverSize Vintage T shirt</title>
+    <s:type></s:type>
+    <s:vendor>MA ZENTIH</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0637/0944/6350/files/photo_2024-10-29_17-52-30.jpg?v=1730222777"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MA ZENTIH<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            38.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1> </h1>
+<p><img data-cke-saved-src="https://ae01.alicdn.com/kf/Sb811d16eafa54ece803790038d9f8e6eJ.jpg" src="https://ae01.alicdn.com/kf/Sb811d16eafa54ece803790038d9f8e6eJ.jpg"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://mazentih.shop/products/7506135613646</id>
+      <title>Black / L / CN</title>
+      <s:price currency="BRL">38.90</s:price>
+      <s:sku>14:175#black9;200007763:201441035;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7506135613646</id>
+      <title>Black / M / CN</title>
+      <s:price currency="BRL">38.90</s:price>
+      <s:sku>14:175#black9;200007763:201441035;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7506135613646</id>
+      <title>Black / XXL / CN</title>
+      <s:price currency="BRL">38.90</s:price>
+      <s:sku>14:175#black9;200007763:201441035;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7506135613646</id>
+      <title>Black / XL / CN</title>
+      <s:price currency="BRL">38.90</s:price>
+      <s:sku>14:175#black9;200007763:201441035;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7506135613646</id>
+      <title>Black / XXXL / CN</title>
+      <s:price currency="BRL">38.90</s:price>
+      <s:sku>14:175#black9;200007763:201441035;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mazentih.shop/products/7506135548110</id>
+    <published>2024-10-09T16:45:52+01:00</published>
+    <updated>2024-10-09T16:45:52+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://mazentih.shop/products/retro-y2k-washed-cotton-t-shirt-skull-pattern-printed-shirt-mens-t-shirt-round-neck-casual-fashion-loose-extra-large-size-top-3"/>
+    <title>Fate OverSize Vintage T shirt</title>
+    <s:type></s:type>
+    <s:vendor>MA ZENTIH</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0637/0944/6350/files/photo_2024-10-29_17-52-41_2.jpg?v=1730222786"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MA ZENTIH<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            38.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1> </h1>
+<p><img data-cke-saved-src="https://ae01.alicdn.com/kf/Sb811d16eafa54ece803790038d9f8e6eJ.jpg" src="https://ae01.alicdn.com/kf/Sb811d16eafa54ece803790038d9f8e6eJ.jpg"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://mazentih.shop/products/7506135548110</id>
+      <title>Black / M / CN</title>
+      <s:price currency="BRL">38.90</s:price>
+      <s:sku>14:200004890#black8;200007763:201441035;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7506135548110</id>
+      <title>Black / XL / CN</title>
+      <s:price currency="BRL">38.90</s:price>
+      <s:sku>14:200004890#black8;200007763:201441035;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7506135548110</id>
+      <title>Black / L / CN</title>
+      <s:price currency="BRL">38.90</s:price>
+      <s:sku>14:200004890#black8;200007763:201441035;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7506135548110</id>
+      <title>Black / XXXL / CN</title>
+      <s:price currency="BRL">38.90</s:price>
+      <s:sku>14:200004890#black8;200007763:201441035;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7506135548110</id>
+      <title>Black / XXL / CN</title>
+      <s:price currency="BRL">38.90</s:price>
+      <s:sku>14:200004890#black8;200007763:201441035;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mazentih.shop/products/7506135417038</id>
+    <published>2024-10-09T16:45:45+01:00</published>
+    <updated>2024-10-09T16:45:45+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://mazentih.shop/products/retro-y2k-washed-cotton-t-shirt-skull-pattern-printed-shirt-mens-t-shirt-round-neck-casual-fashion-loose-extra-large-size-top-2"/>
+    <title>Nightfall OverSize Vintage T shirt</title>
+    <s:type></s:type>
+    <s:vendor>MA ZENTIH</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0637/0944/6350/files/photo_2024-10-29_17-52-39_2.jpg?v=1730222835"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MA ZENTIH<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            38.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1> <img src="https://ae01.alicdn.com/kf/Sb811d16eafa54ece803790038d9f8e6eJ.jpg" data-cke-saved-src="https://ae01.alicdn.com/kf/Sb811d16eafa54ece803790038d9f8e6eJ.jpg">
+</h1>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://mazentih.shop/products/7506135417038</id>
+      <title>Black / L / CN</title>
+      <s:price currency="BRL">38.90</s:price>
+      <s:sku>14:691#black7;200007763:201441035;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7506135417038</id>
+      <title>Black / M / CN</title>
+      <s:price currency="BRL">38.90</s:price>
+      <s:sku>14:691#black7;200007763:201441035;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7506135417038</id>
+      <title>Black / XXL / CN</title>
+      <s:price currency="BRL">38.90</s:price>
+      <s:sku>14:691#black7;200007763:201441035;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7506135417038</id>
+      <title>Black / XL / CN</title>
+      <s:price currency="BRL">38.90</s:price>
+      <s:sku>14:691#black7;200007763:201441035;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7506135417038</id>
+      <title>Black / XXXL / CN</title>
+      <s:price currency="BRL">38.90</s:price>
+      <s:sku>14:691#black7;200007763:201441035;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mazentih.shop/products/7506135089358</id>
+    <published>2024-10-09T16:45:39+01:00</published>
+    <updated>2024-10-09T16:45:39+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://mazentih.shop/products/retro-y2k-washed-cotton-t-shirt-skull-pattern-printed-shirt-mens-t-shirt-round-neck-casual-fashion-loose-extra-large-size-top"/>
+    <title>Fallen OverSize Vintage T shirt</title>
+    <s:type></s:type>
+    <s:vendor>MA ZENTIH</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0637/0944/6350/files/photo_4_2024-10-27_13-38-10.jpg?v=1730032830"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MA ZENTIH<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            38.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1> </h1>
+<p><img data-cke-saved-src="https://ae01.alicdn.com/kf/Sb811d16eafa54ece803790038d9f8e6eJ.jpg" src="https://ae01.alicdn.com/kf/Sb811d16eafa54ece803790038d9f8e6eJ.jpg"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://mazentih.shop/products/7506135089358</id>
+      <title>Black / L / CN</title>
+      <s:price currency="BRL">38.90</s:price>
+      <s:sku>14:771#black1;200007763:201441035;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7506135089358</id>
+      <title>Black / M / CN</title>
+      <s:price currency="BRL">38.90</s:price>
+      <s:sku>14:771#black1;200007763:201441035;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7506135089358</id>
+      <title>Black / XXL / CN</title>
+      <s:price currency="BRL">38.90</s:price>
+      <s:sku>14:771#black1;200007763:201441035;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7506135089358</id>
+      <title>Black / XL / CN</title>
+      <s:price currency="BRL">38.90</s:price>
+      <s:sku>14:771#black1;200007763:201441035;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7506135089358</id>
+      <title>Black / XXXL / CN</title>
+      <s:price currency="BRL">38.90</s:price>
+      <s:sku>14:771#black1;200007763:201441035;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mazentih.shop/products/7504319512782</id>
+    <published>2024-10-03T20:27:32+01:00</published>
+    <updated>2024-10-03T20:27:32+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://mazentih.shop/products/lucifer-vintage-oversize-tshirt"/>
+    <title>Lucifer OverSize Vintage T shirt</title>
+    <s:type></s:type>
+    <s:vendor>MA ZENTIH</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0637/0944/6350/files/photo_2024-10-29_17-52-37.jpg?v=1730220935"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MA ZENTIH<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            38.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1> </h1>
+<p> </p>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://mazentih.shop/products/7504319512782</id>
+      <title>Black / XXXL / CN</title>
+      <s:price currency="BRL">38.90</s:price>
+      <s:sku>14:1254#black4;200007763:201441035;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7504319512782</id>
+      <title>Black / 4XL / CN</title>
+      <s:price currency="BRL">38.90</s:price>
+      <s:sku>14:1254#black4;200007763:201441035;5:200000990</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7504319512782</id>
+      <title>Black / XL / CN</title>
+      <s:price currency="BRL">38.90</s:price>
+      <s:sku>14:1254#black4;200007763:201441035;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7504319512782</id>
+      <title>Black / XXL / CN</title>
+      <s:price currency="BRL">38.90</s:price>
+      <s:sku>14:1254#black4;200007763:201441035;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7504319512782</id>
+      <title>Black / M / CN</title>
+      <s:price currency="BRL">38.90</s:price>
+      <s:sku>14:1254#black4;200007763:201441035;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7504319512782</id>
+      <title>Black / L / CN</title>
+      <s:price currency="BRL">38.90</s:price>
+      <s:sku>14:1254#black4;200007763:201441035;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7504319512782</id>
+      <title>Black / S / CN</title>
+      <s:price currency="BRL">38.90</s:price>
+      <s:sku>14:1254#black4;200007763:201441035;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mazentih.shop/products/7504319774926</id>
+    <published>2024-10-03T20:23:10+01:00</published>
+    <updated>2024-10-03T20:23:10+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://mazentih.shop/products/hisoka-vintage-oversize-tshirt"/>
+    <title>H4 OverSize Vintage T shirt</title>
+    <s:type></s:type>
+    <s:vendor>MA ZENTIH</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0637/0944/6350/files/photo_2024-10-29_17-52-36.jpg?v=1730220832"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MA ZENTIH<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            38.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1> </h1>
+<p> </p>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://mazentih.shop/products/7504319774926</id>
+      <title>Black / L / CN</title>
+      <s:price currency="BRL">38.90</s:price>
+      <s:sku>14:691#black7;200007763:201441035;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7504319774926</id>
+      <title>Black / XL / CN</title>
+      <s:price currency="BRL">38.90</s:price>
+      <s:sku>14:691#black7;200007763:201441035;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7504319774926</id>
+      <title>Black / S / CN</title>
+      <s:price currency="BRL">38.90</s:price>
+      <s:sku>14:691#black7;200007763:201441035;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7504319774926</id>
+      <title>Black / M / CN</title>
+      <s:price currency="BRL">38.90</s:price>
+      <s:sku>14:691#black7;200007763:201441035;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7504319774926</id>
+      <title>Black / 4XL / CN</title>
+      <s:price currency="BRL">38.90</s:price>
+      <s:sku>14:691#black7;200007763:201441035;5:200000990</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7504319774926</id>
+      <title>Black / XXL / CN</title>
+      <s:price currency="BRL">38.90</s:price>
+      <s:sku>14:691#black7;200007763:201441035;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7504319774926</id>
+      <title>Black / XXXL / CN</title>
+      <s:price currency="BRL">38.90</s:price>
+      <s:sku>14:691#black7;200007763:201441035;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mazentih.shop/products/7504318267598</id>
+    <published>2024-10-03T20:22:33+01:00</published>
+    <updated>2024-10-03T20:22:33+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://mazentih.shop/products/kurapika-oversize-vintage-t-shirt-1"/>
+    <title>Kurapika OverSize Vintage T shirt</title>
+    <s:type></s:type>
+    <s:vendor>MA ZENTIH</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0637/0944/6350/files/photo_2024-10-29_17-52-35.jpg?v=1730220979"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MA ZENTIH<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            38.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1> </h1>
+<p><img data-cke-saved-src="https://ae01.alicdn.com/kf/Sb811d16eafa54ece803790038d9f8e6eJ.jpg" src="https://ae01.alicdn.com/kf/Sb811d16eafa54ece803790038d9f8e6eJ.jpg"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://mazentih.shop/products/7504318267598</id>
+      <title>Black / 4XL / CN</title>
+      <s:price currency="BRL">38.90</s:price>
+      <s:sku>14:173#black3;200007763:201441035;5:200000990</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7504318267598</id>
+      <title>Black / XXL / CN</title>
+      <s:price currency="BRL">38.90</s:price>
+      <s:sku>14:173#black3;200007763:201441035;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7504318267598</id>
+      <title>Black / XXXL / CN</title>
+      <s:price currency="BRL">38.90</s:price>
+      <s:sku>14:173#black3;200007763:201441035;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7504318267598</id>
+      <title>Black / L / CN</title>
+      <s:price currency="BRL">38.90</s:price>
+      <s:sku>14:173#black3;200007763:201441035;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7504318267598</id>
+      <title>Black / XL / CN</title>
+      <s:price currency="BRL">38.90</s:price>
+      <s:sku>14:173#black3;200007763:201441035;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7504318267598</id>
+      <title>Black / S / CN</title>
+      <s:price currency="BRL">38.90</s:price>
+      <s:sku>14:173#black3;200007763:201441035;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7504318267598</id>
+      <title>Black / M / CN</title>
+      <s:price currency="BRL">38.90</s:price>
+      <s:sku>14:173#black3;200007763:201441035;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mazentih.shop/products/7504318038222</id>
+    <published>2024-10-03T20:22:18+01:00</published>
+    <updated>2024-10-03T20:22:18+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://mazentih.shop/products/sasuke-over-size-vintage-t-shirt"/>
+    <title>Curse Sas Over Size Vintage T shirt</title>
+    <s:type></s:type>
+    <s:vendor>MA ZENTIH</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0637/0944/6350/files/photo_2024-10-29_17-52-40.jpg?v=1730222938"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MA ZENTIH<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            38.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1> </h1>
+<p> </p>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://mazentih.shop/products/7504318038222</id>
+      <title>Black / XXXL / CN</title>
+      <s:price currency="BRL">38.90</s:price>
+      <s:sku>14:193#black2;200007763:201441035;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7504318038222</id>
+      <title>Black / 4XL / CN</title>
+      <s:price currency="BRL">38.90</s:price>
+      <s:sku>14:193#black2;200007763:201441035;5:200000990</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7504318038222</id>
+      <title>Black / XL / CN</title>
+      <s:price currency="BRL">38.90</s:price>
+      <s:sku>14:193#black2;200007763:201441035;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7504318038222</id>
+      <title>Black / XXL / CN</title>
+      <s:price currency="BRL">38.90</s:price>
+      <s:sku>14:193#black2;200007763:201441035;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7504318038222</id>
+      <title>Black / M / CN</title>
+      <s:price currency="BRL">38.90</s:price>
+      <s:sku>14:193#black2;200007763:201441035;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7504318038222</id>
+      <title>Black / L / CN</title>
+      <s:price currency="BRL">38.90</s:price>
+      <s:sku>14:193#black2;200007763:201441035;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7504318038222</id>
+      <title>Black / S / CN</title>
+      <s:price currency="BRL">38.90</s:price>
+      <s:sku>14:193#black2;200007763:201441035;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mazentih.shop/products/7490465759438</id>
+    <published>2024-08-29T21:25:37+01:00</published>
+    <updated>2024-08-29T21:25:37+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://mazentih.shop/products/y2k-scribble-oversized-vintage-t-shirts"/>
+    <title>Y2K scribble Oversized Vintage T-shirts</title>
+    <s:type></s:type>
+    <s:vendor>MA ZENTIH</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0637/0944/6350/files/photo_2024-10-29_17-52-36_2.jpg?v=1730223028"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MA ZENTIH<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            38.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1> </h1>
+<p> </p>
+<p><img src="https://ae01.alicdn.com/kf/Sa6c30867ad7b4f1b8e0a6e6d6257fd20F.jpg" slate-data-type="image"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://mazentih.shop/products/7490465759438</id>
+      <title>black / XL</title>
+      <s:price currency="BRL">38.90</s:price>
+      <s:sku>14:193;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7490465759438</id>
+      <title>black / L</title>
+      <s:price currency="BRL">38.90</s:price>
+      <s:sku>14:193;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7490465759438</id>
+      <title>black / XXL</title>
+      <s:price currency="BRL">38.90</s:price>
+      <s:sku>14:193;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7490465759438</id>
+      <title>black / M</title>
+      <s:price currency="BRL">38.90</s:price>
+      <s:sku>14:193;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,1640 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://mazentih.shop/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://mazentih.shop/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://mazentih.shop/collections/oversize-vintage-hoodie.atom"/>
+  <title>MA ZENTIH</title>
+  <updated>2024-10-30T11:38:37+01:00</updated>
+  <author>
+    <name>MA ZENTIH</name>
+  </author>
+  <entry>
+    <id>https://mazentih.shop/products/7518527094990</id>
+    <published>2024-10-30T11:38:37+01:00</published>
+    <updated>2024-10-30T11:38:37+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://mazentih.shop/products/v-oversize-vintage-hoodie"/>
+    <title>Crypt OverSize Vintage Hoodie</title>
+    <s:type></s:type>
+    <s:vendor>MA ZENTIH</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0637/0944/6350/files/photo_2024-10-30_11-30-15.jpg?v=1730284233"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MA ZENTIH<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            57.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1> </h1>
+<p><img data-cke-saved-src="https://ae01.alicdn.com/kf/Scd5c757ed10d410f85c2d391a16f9dedO.jpg" src="https://ae01.alicdn.com/kf/Scd5c757ed10d410f85c2d391a16f9dedO.jpg"></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p><img data-cke-saved-src="https://ae01.alicdn.com/kf/Scdcd3dcbe71e409796730f3e7f615e2aU.jpg" src="https://ae01.alicdn.com/kf/Scdcd3dcbe71e409796730f3e7f615e2aU.jpg"><img data-cke-saved-src="https://ae01.alicdn.com/kf/S3c061ba2bae34066b6ecaa21b30222e6x.jpg" src="https://ae01.alicdn.com/kf/S3c061ba2bae34066b6ecaa21b30222e6x.jpg"><img data-cke-saved-src="https://ae01.alicdn.com/kf/S7d2226ec4e8946bc91c1f9e523d736ddp.jpg" src="https://ae01.alicdn.com/kf/S7d2226ec4e8946bc91c1f9e523d736ddp.jpg"><img data-cke-saved-src="https://ae01.alicdn.com/kf/S2a51dc5e14e743da95b1071b441f15e3J.jpg" src="https://ae01.alicdn.com/kf/S2a51dc5e14e743da95b1071b441f15e3J.jpg"></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://mazentih.shop/products/7518527094990</id>
+      <title>Black / 4XL</title>
+      <s:price currency="BRL">57.95</s:price>
+      <s:sku>14:771#black1;200007763:201336100;5:200000990</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7518527094990</id>
+      <title>Black / XXXL</title>
+      <s:price currency="BRL">57.95</s:price>
+      <s:sku>14:771#black1;200007763:201336100;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7518527094990</id>
+      <title>Black / XXL</title>
+      <s:price currency="BRL">57.95</s:price>
+      <s:sku>14:771#black1;200007763:201336100;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7518527094990</id>
+      <title>Black / XL</title>
+      <s:price currency="BRL">57.95</s:price>
+      <s:sku>14:771#black1;200007763:201336100;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7518527094990</id>
+      <title>Black / L</title>
+      <s:price currency="BRL">57.95</s:price>
+      <s:sku>14:771#black1;200007763:201336100;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7518527094990</id>
+      <title>Black / M</title>
+      <s:price currency="BRL">57.95</s:price>
+      <s:sku>14:771#black1;200007763:201336100;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7518527094990</id>
+      <title>Black / S</title>
+      <s:price currency="BRL">57.95</s:price>
+      <s:sku>14:771#black1;200007763:201336100;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mazentih.shop/products/7518526963918</id>
+    <published>2024-10-30T11:38:32+01:00</published>
+    <updated>2024-10-30T11:38:32+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://mazentih.shop/products/c-oversize-vintage-hoodie"/>
+    <title>Myth OverSize Vintage Hoodie</title>
+    <s:type></s:type>
+    <s:vendor>MA ZENTIH</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0637/0944/6350/files/photo_2024-10-30_11-30-12.jpg?v=1730284325"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MA ZENTIH<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            57.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1> </h1>
+<p><img data-cke-saved-src="https://ae01.alicdn.com/kf/Scd5c757ed10d410f85c2d391a16f9dedO.jpg" src="https://ae01.alicdn.com/kf/Scd5c757ed10d410f85c2d391a16f9dedO.jpg"></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p><img data-cke-saved-src="https://ae01.alicdn.com/kf/Scdcd3dcbe71e409796730f3e7f615e2aU.jpg" src="https://ae01.alicdn.com/kf/Scdcd3dcbe71e409796730f3e7f615e2aU.jpg"><img data-cke-saved-src="https://ae01.alicdn.com/kf/S3c061ba2bae34066b6ecaa21b30222e6x.jpg" src="https://ae01.alicdn.com/kf/S3c061ba2bae34066b6ecaa21b30222e6x.jpg"><img data-cke-saved-src="https://ae01.alicdn.com/kf/S7d2226ec4e8946bc91c1f9e523d736ddp.jpg" src="https://ae01.alicdn.com/kf/S7d2226ec4e8946bc91c1f9e523d736ddp.jpg"><img data-cke-saved-src="https://ae01.alicdn.com/kf/S2a51dc5e14e743da95b1071b441f15e3J.jpg" src="https://ae01.alicdn.com/kf/S2a51dc5e14e743da95b1071b441f15e3J.jpg"></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://mazentih.shop/products/7518526963918</id>
+      <title>Black / 4XL</title>
+      <s:price currency="BRL">57.95</s:price>
+      <s:sku>14:771#black1;200007763:201336100;5:200000990</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7518526963918</id>
+      <title>Black / XXXL</title>
+      <s:price currency="BRL">57.95</s:price>
+      <s:sku>14:771#black1;200007763:201336100;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7518526963918</id>
+      <title>Black / XXL</title>
+      <s:price currency="BRL">57.95</s:price>
+      <s:sku>14:771#black1;200007763:201336100;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7518526963918</id>
+      <title>Black / XL</title>
+      <s:price currency="BRL">57.95</s:price>
+      <s:sku>14:771#black1;200007763:201336100;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7518526963918</id>
+      <title>Black / L</title>
+      <s:price currency="BRL">57.95</s:price>
+      <s:sku>14:771#black1;200007763:201336100;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7518526963918</id>
+      <title>Black / M</title>
+      <s:price currency="BRL">57.95</s:price>
+      <s:sku>14:771#black1;200007763:201336100;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7518526963918</id>
+      <title>Black / S</title>
+      <s:price currency="BRL">57.95</s:price>
+      <s:sku>14:771#black1;200007763:201336100;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mazentih.shop/products/7518520082638</id>
+    <published>2024-10-30T11:06:12+01:00</published>
+    <updated>2024-10-30T11:06:12+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://mazentih.shop/products/hex-oversize-vintage-hoodie"/>
+    <title>Hex OverSize Vintage Hoodie</title>
+    <s:type></s:type>
+    <s:vendor>MA ZENTIH</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0637/0944/6350/files/photo_2024-10-30_11-19-12.jpg?v=1730283568"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MA ZENTIH<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            57.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1> </h1>
+<p><img src="https://ae01.alicdn.com/kf/Scd5c757ed10d410f85c2d391a16f9dedO.jpg" data-cke-saved-src="https://ae01.alicdn.com/kf/Scd5c757ed10d410f85c2d391a16f9dedO.jpg"></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p><img src="https://ae01.alicdn.com/kf/Scdcd3dcbe71e409796730f3e7f615e2aU.jpg" data-cke-saved-src="https://ae01.alicdn.com/kf/Scdcd3dcbe71e409796730f3e7f615e2aU.jpg"><img src="https://ae01.alicdn.com/kf/S3c061ba2bae34066b6ecaa21b30222e6x.jpg" data-cke-saved-src="https://ae01.alicdn.com/kf/S3c061ba2bae34066b6ecaa21b30222e6x.jpg"><img src="https://ae01.alicdn.com/kf/S7d2226ec4e8946bc91c1f9e523d736ddp.jpg" data-cke-saved-src="https://ae01.alicdn.com/kf/S7d2226ec4e8946bc91c1f9e523d736ddp.jpg"><img src="https://ae01.alicdn.com/kf/S2a51dc5e14e743da95b1071b441f15e3J.jpg" data-cke-saved-src="https://ae01.alicdn.com/kf/S2a51dc5e14e743da95b1071b441f15e3J.jpg"></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://mazentih.shop/products/7518520082638</id>
+      <title>Black / 4XL</title>
+      <s:price currency="BRL">57.95</s:price>
+      <s:sku>14:173#black3;200007763:201336100;5:200000990</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7518520082638</id>
+      <title>Black / XXXL</title>
+      <s:price currency="BRL">57.95</s:price>
+      <s:sku>14:173#black3;200007763:201336100;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7518520082638</id>
+      <title>Black / XXL</title>
+      <s:price currency="BRL">57.95</s:price>
+      <s:sku>14:173#black3;200007763:201336100;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7518520082638</id>
+      <title>Black / XL</title>
+      <s:price currency="BRL">57.95</s:price>
+      <s:sku>14:173#black3;200007763:201336100;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7518520082638</id>
+      <title>Black / L</title>
+      <s:price currency="BRL">57.95</s:price>
+      <s:sku>14:173#black3;200007763:201336100;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7518520082638</id>
+      <title>Black / M</title>
+      <s:price currency="BRL">57.95</s:price>
+      <s:sku>14:173#black3;200007763:201336100;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7518520082638</id>
+      <title>Black / S</title>
+      <s:price currency="BRL">57.95</s:price>
+      <s:sku>14:173#black3;200007763:201336100;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mazentih.shop/products/7518522048718</id>
+    <published>2024-10-30T11:06:02+01:00</published>
+    <updated>2024-10-30T11:06:02+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://mazentih.shop/products/veil-oversize-vintage-hoodie"/>
+    <title>Veil OverSize Vintage Hoodie</title>
+    <s:type></s:type>
+    <s:vendor>MA ZENTIH</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0637/0944/6350/files/photo_2024-10-30_11-21-48.jpg?v=1730283713"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MA ZENTIH<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            57.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1> </h1>
+<p><img data-cke-saved-src="https://ae01.alicdn.com/kf/Scd5c757ed10d410f85c2d391a16f9dedO.jpg" src="https://ae01.alicdn.com/kf/Scd5c757ed10d410f85c2d391a16f9dedO.jpg"></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p><img data-cke-saved-src="https://ae01.alicdn.com/kf/Scdcd3dcbe71e409796730f3e7f615e2aU.jpg" src="https://ae01.alicdn.com/kf/Scdcd3dcbe71e409796730f3e7f615e2aU.jpg"><img data-cke-saved-src="https://ae01.alicdn.com/kf/S3c061ba2bae34066b6ecaa21b30222e6x.jpg" src="https://ae01.alicdn.com/kf/S3c061ba2bae34066b6ecaa21b30222e6x.jpg"><img data-cke-saved-src="https://ae01.alicdn.com/kf/S7d2226ec4e8946bc91c1f9e523d736ddp.jpg" src="https://ae01.alicdn.com/kf/S7d2226ec4e8946bc91c1f9e523d736ddp.jpg"><img data-cke-saved-src="https://ae01.alicdn.com/kf/S2a51dc5e14e743da95b1071b441f15e3J.jpg" src="https://ae01.alicdn.com/kf/S2a51dc5e14e743da95b1071b441f15e3J.jpg"></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://mazentih.shop/products/7518522048718</id>
+      <title>Black / 4XL</title>
+      <s:price currency="BRL">57.95</s:price>
+      <s:sku>14:193#black2;200007763:201336100;5:200000990</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7518522048718</id>
+      <title>Black / XXXL</title>
+      <s:price currency="BRL">57.95</s:price>
+      <s:sku>14:193#black2;200007763:201336100;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7518522048718</id>
+      <title>Black / XXL</title>
+      <s:price currency="BRL">57.95</s:price>
+      <s:sku>14:193#black2;200007763:201336100;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7518522048718</id>
+      <title>Black / XL</title>
+      <s:price currency="BRL">57.95</s:price>
+      <s:sku>14:193#black2;200007763:201336100;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7518522048718</id>
+      <title>Black / L</title>
+      <s:price currency="BRL">57.95</s:price>
+      <s:sku>14:193#black2;200007763:201336100;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7518522048718</id>
+      <title>Black / M</title>
+      <s:price currency="BRL">57.95</s:price>
+      <s:sku>14:193#black2;200007763:201336100;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7518522048718</id>
+      <title>Black / S</title>
+      <s:price currency="BRL">57.95</s:price>
+      <s:sku>14:193#black2;200007763:201336100;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mazentih.shop/products/7505787388110</id>
+    <published>2024-10-08T15:28:14+01:00</published>
+    <updated>2024-10-08T15:28:14+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://mazentih.shop/products/y2k-dark-ascendancy-oversize-vintage-hoodie"/>
+    <title>Y2K Dark Ascendancy OverSize Vintage Hoodie</title>
+    <s:type></s:type>
+    <s:vendor>MA ZENTIH</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0637/0944/6350/files/photo_2024-10-29_12-50-07_2.jpg?v=1730202886"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MA ZENTIH<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><br data-cke-eol="1"></p>
+<p><img data-cke-saved-src="https://ae01.alicdn.com/kf/Scd5c757ed10d410f85c2d391a16f9dedO.jpg" src="https://ae01.alicdn.com/kf/Scd5c757ed10d410f85c2d391a16f9dedO.jpg"></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p><img data-cke-saved-src="https://ae01.alicdn.com/kf/Scdcd3dcbe71e409796730f3e7f615e2aU.jpg" src="https://ae01.alicdn.com/kf/Scdcd3dcbe71e409796730f3e7f615e2aU.jpg"><img data-cke-saved-src="https://ae01.alicdn.com/kf/S3c061ba2bae34066b6ecaa21b30222e6x.jpg" src="https://ae01.alicdn.com/kf/S3c061ba2bae34066b6ecaa21b30222e6x.jpg"></p>
+<p><img data-cke-saved-src="https://ae01.alicdn.com/kf/S52ded94ffd704913b2f163df459bea68l.jpg" src="https://ae01.alicdn.com/kf/S52ded94ffd704913b2f163df459bea68l.jpg"><img data-cke-saved-src="https://ae01.alicdn.com/kf/S88d5ae89afc446e8ab4a321dd94b05bbW.jpg" src="https://ae01.alicdn.com/kf/S88d5ae89afc446e8ab4a321dd94b05bbW.jpg"><img data-cke-saved-src="https://ae01.alicdn.com/kf/S079d91d7b0c742b8bdc3b027ea4e40feN.jpg" src="https://ae01.alicdn.com/kf/S079d91d7b0c742b8bdc3b027ea4e40feN.jpg"><img data-cke-saved-src="https://ae01.alicdn.com/kf/Sfe014218dc9e43f8bb0ad69a90f0692aE.jpg" src="https://ae01.alicdn.com/kf/Sfe014218dc9e43f8bb0ad69a90f0692aE.jpg"><img data-cke-saved-src="https://ae01.alicdn.com/kf/S4ef84cf16fe141d28d1683e8ece10f27I.jpg" src="https://ae01.alicdn.com/kf/S4ef84cf16fe141d28d1683e8ece10f27I.jpg"><img data-cke-saved-src="https://ae01.alicdn.com/kf/S4df65669f76e4848a4f47ec02532572fx.jpg" src="https://ae01.alicdn.com/kf/S4df65669f76e4848a4f47ec02532572fx.jpg"><img data-cke-saved-src="https://ae01.alicdn.com/kf/Scbcccac9e9204e88b8aaddf68d4a69f6k.jpg" src="https://ae01.alicdn.com/kf/Scbcccac9e9204e88b8aaddf68d4a69f6k.jpg"><img data-cke-saved-src="https://ae01.alicdn.com/kf/Sd8e1881c72c542f791e1a6840f151526l.jpg" src="https://ae01.alicdn.com/kf/Sd8e1881c72c542f791e1a6840f151526l.jpg"><img data-cke-saved-src="https://ae01.alicdn.com/kf/S4e57bbc254c24573870790f645bdaf86U.jpg" src="https://ae01.alicdn.com/kf/S4e57bbc254c24573870790f645bdaf86U.jpg"></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://mazentih.shop/products/7505787388110</id>
+      <title>Black / 4XL / Uk</title>
+      <s:price currency="BRL">49.99</s:price>
+      <s:sku>14:200004889#black10;200007763:201336100;5:200000990</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7505787388110</id>
+      <title>Black / XXXL / Uk</title>
+      <s:price currency="BRL">49.99</s:price>
+      <s:sku>14:200004889#black10;200007763:201336100;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7505787388110</id>
+      <title>Black / XXL / Uk</title>
+      <s:price currency="BRL">49.99</s:price>
+      <s:sku>14:200004889#black10;200007763:201336100;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7505787388110</id>
+      <title>Black / XL / Uk</title>
+      <s:price currency="BRL">49.99</s:price>
+      <s:sku>14:200004889#black10;200007763:201336100;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7505787388110</id>
+      <title>Black / L / Uk</title>
+      <s:price currency="BRL">49.99</s:price>
+      <s:sku>14:200004889#black10;200007763:201336100;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7505787388110</id>
+      <title>Black / M / Uk</title>
+      <s:price currency="BRL">49.99</s:price>
+      <s:sku>14:200004889#black10;200007763:201336100;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7505787388110</id>
+      <title>Black / S / Uk</title>
+      <s:price currency="BRL">49.99</s:price>
+      <s:sku>14:200004889#black10;200007763:201336100;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mazentih.shop/products/7505789092046</id>
+    <published>2024-10-08T15:28:04+01:00</published>
+    <updated>2024-10-08T15:28:04+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://mazentih.shop/products/curse-oversize-vintage-hoodie"/>
+    <title>Curse OverSize Vintage Hoodie</title>
+    <s:type></s:type>
+    <s:vendor>MA ZENTIH</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0637/0944/6350/files/photo_2024-10-29_12-50-06.jpg?v=1730202864"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MA ZENTIH<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1> <br data-cke-eol="1">
+</h1>
+<p><img data-cke-saved-src="https://ae01.alicdn.com/kf/Scd5c757ed10d410f85c2d391a16f9dedO.jpg" src="https://ae01.alicdn.com/kf/Scd5c757ed10d410f85c2d391a16f9dedO.jpg"></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p><img data-cke-saved-src="https://ae01.alicdn.com/kf/Scdcd3dcbe71e409796730f3e7f615e2aU.jpg" src="https://ae01.alicdn.com/kf/Scdcd3dcbe71e409796730f3e7f615e2aU.jpg"><img data-cke-saved-src="https://ae01.alicdn.com/kf/S3c061ba2bae34066b6ecaa21b30222e6x.jpg" src="https://ae01.alicdn.com/kf/S3c061ba2bae34066b6ecaa21b30222e6x.jpg"></p>
+<p><img data-cke-saved-src="https://ae01.alicdn.com/kf/S52ded94ffd704913b2f163df459bea68l.jpg" src="https://ae01.alicdn.com/kf/S52ded94ffd704913b2f163df459bea68l.jpg"><img data-cke-saved-src="https://ae01.alicdn.com/kf/S88d5ae89afc446e8ab4a321dd94b05bbW.jpg" src="https://ae01.alicdn.com/kf/S88d5ae89afc446e8ab4a321dd94b05bbW.jpg"><img data-cke-saved-src="https://ae01.alicdn.com/kf/S079d91d7b0c742b8bdc3b027ea4e40feN.jpg" src="https://ae01.alicdn.com/kf/S079d91d7b0c742b8bdc3b027ea4e40feN.jpg"><img data-cke-saved-src="https://ae01.alicdn.com/kf/Sfe014218dc9e43f8bb0ad69a90f0692aE.jpg" src="https://ae01.alicdn.com/kf/Sfe014218dc9e43f8bb0ad69a90f0692aE.jpg"><img data-cke-saved-src="https://ae01.alicdn.com/kf/S4ef84cf16fe141d28d1683e8ece10f27I.jpg" src="https://ae01.alicdn.com/kf/S4ef84cf16fe141d28d1683e8ece10f27I.jpg"><img data-cke-saved-src="https://ae01.alicdn.com/kf/S4df65669f76e4848a4f47ec02532572fx.jpg" src="https://ae01.alicdn.com/kf/S4df65669f76e4848a4f47ec02532572fx.jpg"><img data-cke-saved-src="https://ae01.alicdn.com/kf/Scbcccac9e9204e88b8aaddf68d4a69f6k.jpg" src="https://ae01.alicdn.com/kf/Scbcccac9e9204e88b8aaddf68d4a69f6k.jpg"><img data-cke-saved-src="https://ae01.alicdn.com/kf/Sd8e1881c72c542f791e1a6840f151526l.jpg" src="https://ae01.alicdn.com/kf/Sd8e1881c72c542f791e1a6840f151526l.jpg"><img data-cke-saved-src="https://ae01.alicdn.com/kf/S4e57bbc254c24573870790f645bdaf86U.jpg" src="https://ae01.alicdn.com/kf/S4e57bbc254c24573870790f645bdaf86U.jpg"></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://mazentih.shop/products/7505789092046</id>
+      <title>Black / 4XL / BRASIL</title>
+      <s:price currency="BRL">49.99</s:price>
+      <s:sku>14:193#black2;200007763:201336100;5:200000990</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7505789092046</id>
+      <title>Black / XXXL / BRASIL</title>
+      <s:price currency="BRL">49.99</s:price>
+      <s:sku>14:193#black2;200007763:201336100;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7505789092046</id>
+      <title>Black / XXL / BRASIL</title>
+      <s:price currency="BRL">49.99</s:price>
+      <s:sku>14:193#black2;200007763:201336100;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7505789092046</id>
+      <title>Black / XL / BRASIL</title>
+      <s:price currency="BRL">49.99</s:price>
+      <s:sku>14:193#black2;200007763:201336100;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7505789092046</id>
+      <title>Black / L / BRASIL</title>
+      <s:price currency="BRL">49.99</s:price>
+      <s:sku>14:193#black2;200007763:201336100;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7505789092046</id>
+      <title>Black / M / BRASIL</title>
+      <s:price currency="BRL">49.99</s:price>
+      <s:sku>14:193#black2;200007763:201336100;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7505789092046</id>
+      <title>Black / S / BRASIL</title>
+      <s:price currency="BRL">49.99</s:price>
+      <s:sku>14:193#black2;200007763:201336100;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mazentih.shop/products/7505789550798</id>
+    <published>2024-10-08T15:27:55+01:00</published>
+    <updated>2024-10-08T15:27:55+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://mazentih.shop/products/y2k-phantom-strike-oversize-vintage-hoodie"/>
+    <title>Y2K  Phantom Strike OverSize Vintage Hoodie</title>
+    <s:type></s:type>
+    <s:vendor>MA ZENTIH</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0637/0944/6350/files/photo_2024-10-29_12-50-05_2.jpg?v=1730202806"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MA ZENTIH<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1> </h1>
+<p><br data-cke-eol="1"></p>
+<p><img data-cke-saved-src="https://ae01.alicdn.com/kf/Scd5c757ed10d410f85c2d391a16f9dedO.jpg" src="https://ae01.alicdn.com/kf/Scd5c757ed10d410f85c2d391a16f9dedO.jpg"></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p><img data-cke-saved-src="https://ae01.alicdn.com/kf/Scdcd3dcbe71e409796730f3e7f615e2aU.jpg" src="https://ae01.alicdn.com/kf/Scdcd3dcbe71e409796730f3e7f615e2aU.jpg"><img data-cke-saved-src="https://ae01.alicdn.com/kf/S3c061ba2bae34066b6ecaa21b30222e6x.jpg" src="https://ae01.alicdn.com/kf/S3c061ba2bae34066b6ecaa21b30222e6x.jpg"></p>
+<p><img data-cke-saved-src="https://ae01.alicdn.com/kf/S52ded94ffd704913b2f163df459bea68l.jpg" src="https://ae01.alicdn.com/kf/S52ded94ffd704913b2f163df459bea68l.jpg"><img data-cke-saved-src="https://ae01.alicdn.com/kf/S88d5ae89afc446e8ab4a321dd94b05bbW.jpg" src="https://ae01.alicdn.com/kf/S88d5ae89afc446e8ab4a321dd94b05bbW.jpg"><img data-cke-saved-src="https://ae01.alicdn.com/kf/S079d91d7b0c742b8bdc3b027ea4e40feN.jpg" src="https://ae01.alicdn.com/kf/S079d91d7b0c742b8bdc3b027ea4e40feN.jpg"><img data-cke-saved-src="https://ae01.alicdn.com/kf/Sfe014218dc9e43f8bb0ad69a90f0692aE.jpg" src="https://ae01.alicdn.com/kf/Sfe014218dc9e43f8bb0ad69a90f0692aE.jpg"><img data-cke-saved-src="https://ae01.alicdn.com/kf/S4ef84cf16fe141d28d1683e8ece10f27I.jpg" src="https://ae01.alicdn.com/kf/S4ef84cf16fe141d28d1683e8ece10f27I.jpg"><img data-cke-saved-src="https://ae01.alicdn.com/kf/S4df65669f76e4848a4f47ec02532572fx.jpg" src="https://ae01.alicdn.com/kf/S4df65669f76e4848a4f47ec02532572fx.jpg"><img data-cke-saved-src="https://ae01.alicdn.com/kf/Scbcccac9e9204e88b8aaddf68d4a69f6k.jpg" src="https://ae01.alicdn.com/kf/Scbcccac9e9204e88b8aaddf68d4a69f6k.jpg"><img data-cke-saved-src="https://ae01.alicdn.com/kf/Sd8e1881c72c542f791e1a6840f151526l.jpg" src="https://ae01.alicdn.com/kf/Sd8e1881c72c542f791e1a6840f151526l.jpg"><img data-cke-saved-src="https://ae01.alicdn.com/kf/S4e57bbc254c24573870790f645bdaf86U.jpg" src="https://ae01.alicdn.com/kf/S4e57bbc254c24573870790f645bdaf86U.jpg"></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://mazentih.shop/products/7505789550798</id>
+      <title>Black / L / BRASIL</title>
+      <s:price currency="BRL">49.99</s:price>
+      <s:sku>14:173#black3;200007763:201336100;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7505789550798</id>
+      <title>Black / M / BRASIL</title>
+      <s:price currency="BRL">49.99</s:price>
+      <s:sku>14:173#black3;200007763:201336100;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7505789550798</id>
+      <title>Black / S / BRASIL</title>
+      <s:price currency="BRL">49.99</s:price>
+      <s:sku>14:173#black3;200007763:201336100;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7505789550798</id>
+      <title>Black / 4XL / BRASIL</title>
+      <s:price currency="BRL">49.99</s:price>
+      <s:sku>14:173#black3;200007763:201336100;5:200000990</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7505789550798</id>
+      <title>Black / XXXL / BRASIL</title>
+      <s:price currency="BRL">49.99</s:price>
+      <s:sku>14:173#black3;200007763:201336100;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7505789550798</id>
+      <title>Black / XXL / BRASIL</title>
+      <s:price currency="BRL">49.99</s:price>
+      <s:sku>14:173#black3;200007763:201336100;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7505789550798</id>
+      <title>Black / XL / BRASIL</title>
+      <s:price currency="BRL">49.99</s:price>
+      <s:sku>14:173#black3;200007763:201336100;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mazentih.shop/products/7505791451342</id>
+    <published>2024-10-08T15:27:36+01:00</published>
+    <updated>2024-10-08T15:27:36+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://mazentih.shop/products/gothic-chain-cros-oversize-vintage-hoodie"/>
+    <title>KurapikaChain Cros OverSize Vintage Hoodie</title>
+    <s:type></s:type>
+    <s:vendor>MA ZENTIH</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0637/0944/6350/files/photo_2024-10-29_12-50-07.jpg?v=1730202836"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MA ZENTIH<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1> </h1>
+<p><br data-cke-eol="1"></p>
+<p><img data-cke-saved-src="https://ae01.alicdn.com/kf/Scd5c757ed10d410f85c2d391a16f9dedO.jpg" src="https://ae01.alicdn.com/kf/Scd5c757ed10d410f85c2d391a16f9dedO.jpg"></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p><img data-cke-saved-src="https://ae01.alicdn.com/kf/Scdcd3dcbe71e409796730f3e7f615e2aU.jpg" src="https://ae01.alicdn.com/kf/Scdcd3dcbe71e409796730f3e7f615e2aU.jpg"><img data-cke-saved-src="https://ae01.alicdn.com/kf/S3c061ba2bae34066b6ecaa21b30222e6x.jpg" src="https://ae01.alicdn.com/kf/S3c061ba2bae34066b6ecaa21b30222e6x.jpg"></p>
+<p><img data-cke-saved-src="https://ae01.alicdn.com/kf/S52ded94ffd704913b2f163df459bea68l.jpg" src="https://ae01.alicdn.com/kf/S52ded94ffd704913b2f163df459bea68l.jpg"><img data-cke-saved-src="https://ae01.alicdn.com/kf/S88d5ae89afc446e8ab4a321dd94b05bbW.jpg" src="https://ae01.alicdn.com/kf/S88d5ae89afc446e8ab4a321dd94b05bbW.jpg"><img data-cke-saved-src="https://ae01.alicdn.com/kf/S079d91d7b0c742b8bdc3b027ea4e40feN.jpg" src="https://ae01.alicdn.com/kf/S079d91d7b0c742b8bdc3b027ea4e40feN.jpg"><img data-cke-saved-src="https://ae01.alicdn.com/kf/Sfe014218dc9e43f8bb0ad69a90f0692aE.jpg" src="https://ae01.alicdn.com/kf/Sfe014218dc9e43f8bb0ad69a90f0692aE.jpg"><img data-cke-saved-src="https://ae01.alicdn.com/kf/S4ef84cf16fe141d28d1683e8ece10f27I.jpg" src="https://ae01.alicdn.com/kf/S4ef84cf16fe141d28d1683e8ece10f27I.jpg"><img data-cke-saved-src="https://ae01.alicdn.com/kf/S4df65669f76e4848a4f47ec02532572fx.jpg" src="https://ae01.alicdn.com/kf/S4df65669f76e4848a4f47ec02532572fx.jpg"><img data-cke-saved-src="https://ae01.alicdn.com/kf/Scbcccac9e9204e88b8aaddf68d4a69f6k.jpg" src="https://ae01.alicdn.com/kf/Scbcccac9e9204e88b8aaddf68d4a69f6k.jpg"><img data-cke-saved-src="https://ae01.alicdn.com/kf/Sd8e1881c72c542f791e1a6840f151526l.jpg" src="https://ae01.alicdn.com/kf/Sd8e1881c72c542f791e1a6840f151526l.jpg"><img data-cke-saved-src="https://ae01.alicdn.com/kf/S4e57bbc254c24573870790f645bdaf86U.jpg" src="https://ae01.alicdn.com/kf/S4e57bbc254c24573870790f645bdaf86U.jpg"></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://mazentih.shop/products/7505791451342</id>
+      <title>Black / 4XL / BRASIL</title>
+      <s:price currency="BRL">49.99</s:price>
+      <s:sku>14:1254#black4;200007763:201336100;5:200000990</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7505791451342</id>
+      <title>Black / XXXL / BRASIL</title>
+      <s:price currency="BRL">49.99</s:price>
+      <s:sku>14:1254#black4;200007763:201336100;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7505791451342</id>
+      <title>Black / XXL / BRASIL</title>
+      <s:price currency="BRL">49.99</s:price>
+      <s:sku>14:1254#black4;200007763:201336100;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7505791451342</id>
+      <title>Black / XL / BRASIL</title>
+      <s:price currency="BRL">49.99</s:price>
+      <s:sku>14:1254#black4;200007763:201336100;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7505791451342</id>
+      <title>Black / L / BRASIL</title>
+      <s:price currency="BRL">49.99</s:price>
+      <s:sku>14:1254#black4;200007763:201336100;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7505791451342</id>
+      <title>Black / M / BRASIL</title>
+      <s:price currency="BRL">49.99</s:price>
+      <s:sku>14:1254#black4;200007763:201336100;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7505791451342</id>
+      <title>Black / S / BRASIL</title>
+      <s:price currency="BRL">49.99</s:price>
+      <s:sku>14:1254#black4;200007763:201336100;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mazentih.shop/products/7505775558862</id>
+    <published>2024-10-08T15:27:27+01:00</published>
+    <updated>2024-10-08T15:27:27+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://mazentih.shop/products/dark-allure-oversize-vintage-hoodie"/>
+    <title>Y2K Dark Allure OverSize Vintage Hoodie</title>
+    <s:type></s:type>
+    <s:vendor>MA ZENTIH</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0637/0944/6350/files/photo_2024-10-29_12-50-11.jpg?v=1730203632"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MA ZENTIH<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1> <br data-cke-eol="1">
+</h1>
+<p><img data-cke-saved-src="https://ae01.alicdn.com/kf/Scd5c757ed10d410f85c2d391a16f9dedO.jpg" src="https://ae01.alicdn.com/kf/Scd5c757ed10d410f85c2d391a16f9dedO.jpg"></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p><img data-cke-saved-src="https://ae01.alicdn.com/kf/Scdcd3dcbe71e409796730f3e7f615e2aU.jpg" src="https://ae01.alicdn.com/kf/Scdcd3dcbe71e409796730f3e7f615e2aU.jpg"><img data-cke-saved-src="https://ae01.alicdn.com/kf/S3c061ba2bae34066b6ecaa21b30222e6x.jpg" src="https://ae01.alicdn.com/kf/S3c061ba2bae34066b6ecaa21b30222e6x.jpg"></p>
+<p><img data-cke-saved-src="https://ae01.alicdn.com/kf/S52ded94ffd704913b2f163df459bea68l.jpg" src="https://ae01.alicdn.com/kf/S52ded94ffd704913b2f163df459bea68l.jpg"><img data-cke-saved-src="https://ae01.alicdn.com/kf/S88d5ae89afc446e8ab4a321dd94b05bbW.jpg" src="https://ae01.alicdn.com/kf/S88d5ae89afc446e8ab4a321dd94b05bbW.jpg"><img data-cke-saved-src="https://ae01.alicdn.com/kf/S079d91d7b0c742b8bdc3b027ea4e40feN.jpg" src="https://ae01.alicdn.com/kf/S079d91d7b0c742b8bdc3b027ea4e40feN.jpg"><img data-cke-saved-src="https://ae01.alicdn.com/kf/Sfe014218dc9e43f8bb0ad69a90f0692aE.jpg" src="https://ae01.alicdn.com/kf/Sfe014218dc9e43f8bb0ad69a90f0692aE.jpg"><img data-cke-saved-src="https://ae01.alicdn.com/kf/S4ef84cf16fe141d28d1683e8ece10f27I.jpg" src="https://ae01.alicdn.com/kf/S4ef84cf16fe141d28d1683e8ece10f27I.jpg"><img data-cke-saved-src="https://ae01.alicdn.com/kf/S4df65669f76e4848a4f47ec02532572fx.jpg" src="https://ae01.alicdn.com/kf/S4df65669f76e4848a4f47ec02532572fx.jpg"><img data-cke-saved-src="https://ae01.alicdn.com/kf/Scbcccac9e9204e88b8aaddf68d4a69f6k.jpg" src="https://ae01.alicdn.com/kf/Scbcccac9e9204e88b8aaddf68d4a69f6k.jpg"><img data-cke-saved-src="https://ae01.alicdn.com/kf/Sd8e1881c72c542f791e1a6840f151526l.jpg" src="https://ae01.alicdn.com/kf/Sd8e1881c72c542f791e1a6840f151526l.jpg"><img data-cke-saved-src="https://ae01.alicdn.com/kf/S4e57bbc254c24573870790f645bdaf86U.jpg" src="https://ae01.alicdn.com/kf/S4e57bbc254c24573870790f645bdaf86U.jpg"></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://mazentih.shop/products/7505775558862</id>
+      <title>Black / 4XL / Uk</title>
+      <s:price currency="BRL">49.99</s:price>
+      <s:sku>14:771#black1;200007763:201336100;5:200000990</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7505775558862</id>
+      <title>Black / XXXL / Uk</title>
+      <s:price currency="BRL">49.99</s:price>
+      <s:sku>14:771#black1;200007763:201336100;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7505775558862</id>
+      <title>Black / XXL / Uk</title>
+      <s:price currency="BRL">49.99</s:price>
+      <s:sku>14:771#black1;200007763:201336100;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7505775558862</id>
+      <title>Black / XL / Uk</title>
+      <s:price currency="BRL">49.99</s:price>
+      <s:sku>14:771#black1;200007763:201336100;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7505775558862</id>
+      <title>Black / L / Uk</title>
+      <s:price currency="BRL">49.99</s:price>
+      <s:sku>14:771#black1;200007763:201336100;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7505775558862</id>
+      <title>Black / M / Uk</title>
+      <s:price currency="BRL">49.99</s:price>
+      <s:sku>14:771#black1;200007763:201336100;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7505775558862</id>
+      <title>Black / S / Uk</title>
+      <s:price currency="BRL">49.99</s:price>
+      <s:sku>14:771#black1;200007763:201336100;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mazentih.shop/products/7505776541902</id>
+    <published>2024-10-08T15:27:18+01:00</published>
+    <updated>2024-10-08T15:27:18+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://mazentih.shop/products/y2k-shadow-transformations-oversize-vintage-hoodie"/>
+    <title>Y2K Shadow Transformations OverSize Vintage Hoodie</title>
+    <s:type></s:type>
+    <s:vendor>MA ZENTIH</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0637/0944/6350/files/photo_2024-10-29_12-50-13.jpg?v=1730203599"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MA ZENTIH<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><br data-cke-eol="1"></p>
+<p><img data-cke-saved-src="https://ae01.alicdn.com/kf/Scd5c757ed10d410f85c2d391a16f9dedO.jpg" src="https://ae01.alicdn.com/kf/Scd5c757ed10d410f85c2d391a16f9dedO.jpg"></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p><img data-cke-saved-src="https://ae01.alicdn.com/kf/Scdcd3dcbe71e409796730f3e7f615e2aU.jpg" src="https://ae01.alicdn.com/kf/Scdcd3dcbe71e409796730f3e7f615e2aU.jpg"><img data-cke-saved-src="https://ae01.alicdn.com/kf/S3c061ba2bae34066b6ecaa21b30222e6x.jpg" src="https://ae01.alicdn.com/kf/S3c061ba2bae34066b6ecaa21b30222e6x.jpg"></p>
+<p><img data-cke-saved-src="https://ae01.alicdn.com/kf/S52ded94ffd704913b2f163df459bea68l.jpg" src="https://ae01.alicdn.com/kf/S52ded94ffd704913b2f163df459bea68l.jpg"><img data-cke-saved-src="https://ae01.alicdn.com/kf/S88d5ae89afc446e8ab4a321dd94b05bbW.jpg" src="https://ae01.alicdn.com/kf/S88d5ae89afc446e8ab4a321dd94b05bbW.jpg"><img data-cke-saved-src="https://ae01.alicdn.com/kf/S079d91d7b0c742b8bdc3b027ea4e40feN.jpg" src="https://ae01.alicdn.com/kf/S079d91d7b0c742b8bdc3b027ea4e40feN.jpg"><img data-cke-saved-src="https://ae01.alicdn.com/kf/Sfe014218dc9e43f8bb0ad69a90f0692aE.jpg" src="https://ae01.alicdn.com/kf/Sfe014218dc9e43f8bb0ad69a90f0692aE.jpg"><img data-cke-saved-src="https://ae01.alicdn.com/kf/S4ef84cf16fe141d28d1683e8ece10f27I.jpg" src="https://ae01.alicdn.com/kf/S4ef84cf16fe141d28d1683e8ece10f27I.jpg"><img data-cke-saved-src="https://ae01.alicdn.com/kf/S4df65669f76e4848a4f47ec02532572fx.jpg" src="https://ae01.alicdn.com/kf/S4df65669f76e4848a4f47ec02532572fx.jpg"><img data-cke-saved-src="https://ae01.alicdn.com/kf/Scbcccac9e9204e88b8aaddf68d4a69f6k.jpg" src="https://ae01.alicdn.com/kf/Scbcccac9e9204e88b8aaddf68d4a69f6k.jpg"><img data-cke-saved-src="https://ae01.alicdn.com/kf/Sd8e1881c72c542f791e1a6840f151526l.jpg" src="https://ae01.alicdn.com/kf/Sd8e1881c72c542f791e1a6840f151526l.jpg"><img data-cke-saved-src="https://ae01.alicdn.com/kf/S4e57bbc254c24573870790f645bdaf86U.jpg" src="https://ae01.alicdn.com/kf/S4e57bbc254c24573870790f645bdaf86U.jpg"></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://mazentih.shop/products/7505776541902</id>
+      <title>Black / 4XL / BRASIL</title>
+      <s:price currency="BRL">49.99</s:price>
+      <s:sku>14:10#black17;200007763:201336100;5:200000990</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7505776541902</id>
+      <title>Black / XXXL / BRASIL</title>
+      <s:price currency="BRL">49.99</s:price>
+      <s:sku>14:10#black17;200007763:201336100;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7505776541902</id>
+      <title>Black / XXL / BRASIL</title>
+      <s:price currency="BRL">49.99</s:price>
+      <s:sku>14:10#black17;200007763:201336100;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7505776541902</id>
+      <title>Black / XL / BRASIL</title>
+      <s:price currency="BRL">49.99</s:price>
+      <s:sku>14:10#black17;200007763:201336100;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7505776541902</id>
+      <title>Black / L / BRASIL</title>
+      <s:price currency="BRL">49.99</s:price>
+      <s:sku>14:10#black17;200007763:201336100;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7505776541902</id>
+      <title>Black / M / BRASIL</title>
+      <s:price currency="BRL">49.99</s:price>
+      <s:sku>14:10#black17;200007763:201336100;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7505776541902</id>
+      <title>Black / S / BRASIL</title>
+      <s:price currency="BRL">49.99</s:price>
+      <s:sku>14:10#black17;200007763:201336100;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mazentih.shop/products/7505778049230</id>
+    <published>2024-10-08T15:27:09+01:00</published>
+    <updated>2024-10-08T15:27:09+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://mazentih.shop/products/y2k-veil-of-shadows-oversize-vintage-hoodie"/>
+    <title>Y2K Veil of Shadows  OverSize Vintage Hoodie</title>
+    <s:type></s:type>
+    <s:vendor>MA ZENTIH</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0637/0944/6350/files/photo_2024-10-29_12-50-12.jpg?v=1730203576"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MA ZENTIH<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><br data-cke-eol="1"></p>
+<p><img data-cke-saved-src="https://ae01.alicdn.com/kf/Scd5c757ed10d410f85c2d391a16f9dedO.jpg" src="https://ae01.alicdn.com/kf/Scd5c757ed10d410f85c2d391a16f9dedO.jpg"></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p><img data-cke-saved-src="https://ae01.alicdn.com/kf/Scdcd3dcbe71e409796730f3e7f615e2aU.jpg" src="https://ae01.alicdn.com/kf/Scdcd3dcbe71e409796730f3e7f615e2aU.jpg"><img data-cke-saved-src="https://ae01.alicdn.com/kf/S3c061ba2bae34066b6ecaa21b30222e6x.jpg" src="https://ae01.alicdn.com/kf/S3c061ba2bae34066b6ecaa21b30222e6x.jpg"></p>
+<p><img data-cke-saved-src="https://ae01.alicdn.com/kf/S52ded94ffd704913b2f163df459bea68l.jpg" src="https://ae01.alicdn.com/kf/S52ded94ffd704913b2f163df459bea68l.jpg"><img data-cke-saved-src="https://ae01.alicdn.com/kf/S88d5ae89afc446e8ab4a321dd94b05bbW.jpg" src="https://ae01.alicdn.com/kf/S88d5ae89afc446e8ab4a321dd94b05bbW.jpg"><img data-cke-saved-src="https://ae01.alicdn.com/kf/S079d91d7b0c742b8bdc3b027ea4e40feN.jpg" src="https://ae01.alicdn.com/kf/S079d91d7b0c742b8bdc3b027ea4e40feN.jpg"><img data-cke-saved-src="https://ae01.alicdn.com/kf/Sfe014218dc9e43f8bb0ad69a90f0692aE.jpg" src="https://ae01.alicdn.com/kf/Sfe014218dc9e43f8bb0ad69a90f0692aE.jpg"><img data-cke-saved-src="https://ae01.alicdn.com/kf/S4ef84cf16fe141d28d1683e8ece10f27I.jpg" src="https://ae01.alicdn.com/kf/S4ef84cf16fe141d28d1683e8ece10f27I.jpg"><img data-cke-saved-src="https://ae01.alicdn.com/kf/S4df65669f76e4848a4f47ec02532572fx.jpg" src="https://ae01.alicdn.com/kf/S4df65669f76e4848a4f47ec02532572fx.jpg"><img data-cke-saved-src="https://ae01.alicdn.com/kf/Scbcccac9e9204e88b8aaddf68d4a69f6k.jpg" src="https://ae01.alicdn.com/kf/Scbcccac9e9204e88b8aaddf68d4a69f6k.jpg"><img data-cke-saved-src="https://ae01.alicdn.com/kf/Sd8e1881c72c542f791e1a6840f151526l.jpg" src="https://ae01.alicdn.com/kf/Sd8e1881c72c542f791e1a6840f151526l.jpg"><img data-cke-saved-src="https://ae01.alicdn.com/kf/S4e57bbc254c24573870790f645bdaf86U.jpg" src="https://ae01.alicdn.com/kf/S4e57bbc254c24573870790f645bdaf86U.jpg"></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://mazentih.shop/products/7505778049230</id>
+      <title>Black / 4XL / Uk</title>
+      <s:price currency="BRL">49.99</s:price>
+      <s:sku>14:366#black20;200007763:201336100;5:200000990</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7505778049230</id>
+      <title>Black / XXXL / Uk</title>
+      <s:price currency="BRL">49.99</s:price>
+      <s:sku>14:366#black20;200007763:201336100;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7505778049230</id>
+      <title>Black / XXL / Uk</title>
+      <s:price currency="BRL">49.99</s:price>
+      <s:sku>14:366#black20;200007763:201336100;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7505778049230</id>
+      <title>Black / XL / Uk</title>
+      <s:price currency="BRL">49.99</s:price>
+      <s:sku>14:366#black20;200007763:201336100;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7505778049230</id>
+      <title>Black / L / Uk</title>
+      <s:price currency="BRL">49.99</s:price>
+      <s:sku>14:366#black20;200007763:201336100;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7505778049230</id>
+      <title>Black / M / Uk</title>
+      <s:price currency="BRL">49.99</s:price>
+      <s:sku>14:366#black20;200007763:201336100;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7505778049230</id>
+      <title>Black / S / Uk</title>
+      <s:price currency="BRL">49.99</s:price>
+      <s:sku>14:366#black20;200007763:201336100;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mazentih.shop/products/7505778835662</id>
+    <published>2024-10-08T15:27:01+01:00</published>
+    <updated>2024-10-08T15:27:01+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://mazentih.shop/products/y2k-dark-reaper-oversize-vintage-hoodie"/>
+    <title>Y2K Dark Reaper OverSize Vintage Hoodie</title>
+    <s:type></s:type>
+    <s:vendor>MA ZENTIH</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0637/0944/6350/files/photo_2024-10-29_12-50-10.jpg?v=1730203554"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MA ZENTIH<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><br data-cke-eol="1"></p>
+<p><img data-cke-saved-src="https://ae01.alicdn.com/kf/Scd5c757ed10d410f85c2d391a16f9dedO.jpg" src="https://ae01.alicdn.com/kf/Scd5c757ed10d410f85c2d391a16f9dedO.jpg"></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p><img data-cke-saved-src="https://ae01.alicdn.com/kf/Scdcd3dcbe71e409796730f3e7f615e2aU.jpg" src="https://ae01.alicdn.com/kf/Scdcd3dcbe71e409796730f3e7f615e2aU.jpg"><img data-cke-saved-src="https://ae01.alicdn.com/kf/S3c061ba2bae34066b6ecaa21b30222e6x.jpg" src="https://ae01.alicdn.com/kf/S3c061ba2bae34066b6ecaa21b30222e6x.jpg"></p>
+<p><img data-cke-saved-src="https://ae01.alicdn.com/kf/S52ded94ffd704913b2f163df459bea68l.jpg" src="https://ae01.alicdn.com/kf/S52ded94ffd704913b2f163df459bea68l.jpg"><img data-cke-saved-src="https://ae01.alicdn.com/kf/S88d5ae89afc446e8ab4a321dd94b05bbW.jpg" src="https://ae01.alicdn.com/kf/S88d5ae89afc446e8ab4a321dd94b05bbW.jpg"><img data-cke-saved-src="https://ae01.alicdn.com/kf/S079d91d7b0c742b8bdc3b027ea4e40feN.jpg" src="https://ae01.alicdn.com/kf/S079d91d7b0c742b8bdc3b027ea4e40feN.jpg"><img data-cke-saved-src="https://ae01.alicdn.com/kf/Sfe014218dc9e43f8bb0ad69a90f0692aE.jpg" src="https://ae01.alicdn.com/kf/Sfe014218dc9e43f8bb0ad69a90f0692aE.jpg"><img data-cke-saved-src="https://ae01.alicdn.com/kf/S4ef84cf16fe141d28d1683e8ece10f27I.jpg" src="https://ae01.alicdn.com/kf/S4ef84cf16fe141d28d1683e8ece10f27I.jpg"><img data-cke-saved-src="https://ae01.alicdn.com/kf/S4df65669f76e4848a4f47ec02532572fx.jpg" src="https://ae01.alicdn.com/kf/S4df65669f76e4848a4f47ec02532572fx.jpg"><img data-cke-saved-src="https://ae01.alicdn.com/kf/Scbcccac9e9204e88b8aaddf68d4a69f6k.jpg" src="https://ae01.alicdn.com/kf/Scbcccac9e9204e88b8aaddf68d4a69f6k.jpg"><img data-cke-saved-src="https://ae01.alicdn.com/kf/Sd8e1881c72c542f791e1a6840f151526l.jpg" src="https://ae01.alicdn.com/kf/Sd8e1881c72c542f791e1a6840f151526l.jpg"><img data-cke-saved-src="https://ae01.alicdn.com/kf/S4e57bbc254c24573870790f645bdaf86U.jpg" src="https://ae01.alicdn.com/kf/S4e57bbc254c24573870790f645bdaf86U.jpg"></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://mazentih.shop/products/7505778835662</id>
+      <title>Black / 4XL / Uk</title>
+      <s:price currency="BRL">49.99</s:price>
+      <s:sku>14:350853#black18;200007763:201336100;5:200000990</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7505778835662</id>
+      <title>Black / XXXL / Uk</title>
+      <s:price currency="BRL">49.99</s:price>
+      <s:sku>14:350853#black18;200007763:201336100;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7505778835662</id>
+      <title>Black / XXL / Uk</title>
+      <s:price currency="BRL">49.99</s:price>
+      <s:sku>14:350853#black18;200007763:201336100;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7505778835662</id>
+      <title>Black / XL / Uk</title>
+      <s:price currency="BRL">49.99</s:price>
+      <s:sku>14:350853#black18;200007763:201336100;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7505778835662</id>
+      <title>Black / L / Uk</title>
+      <s:price currency="BRL">49.99</s:price>
+      <s:sku>14:350853#black18;200007763:201336100;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7505778835662</id>
+      <title>Black / M / Uk</title>
+      <s:price currency="BRL">49.99</s:price>
+      <s:sku>14:350853#black18;200007763:201336100;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7505778835662</id>
+      <title>Black / S / Uk</title>
+      <s:price currency="BRL">49.99</s:price>
+      <s:sku>14:350853#black18;200007763:201336100;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mazentih.shop/products/7505780441294</id>
+    <published>2024-10-08T15:26:50+01:00</published>
+    <updated>2024-10-08T15:26:50+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://mazentih.shop/products/y2k-mythic-shadows-oversize-vintage-hoodie"/>
+    <title>Y2K Mythic Shadows OverSize Vintage Hoodie</title>
+    <s:type></s:type>
+    <s:vendor>MA ZENTIH</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0637/0944/6350/files/photo_2024-10-29_12-50-08.jpg?v=1730202896"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MA ZENTIH<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><br data-cke-eol="1"></p>
+<p><img data-cke-saved-src="https://ae01.alicdn.com/kf/Scd5c757ed10d410f85c2d391a16f9dedO.jpg" src="https://ae01.alicdn.com/kf/Scd5c757ed10d410f85c2d391a16f9dedO.jpg"></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p><img data-cke-saved-src="https://ae01.alicdn.com/kf/Scdcd3dcbe71e409796730f3e7f615e2aU.jpg" src="https://ae01.alicdn.com/kf/Scdcd3dcbe71e409796730f3e7f615e2aU.jpg"><img data-cke-saved-src="https://ae01.alicdn.com/kf/S3c061ba2bae34066b6ecaa21b30222e6x.jpg" src="https://ae01.alicdn.com/kf/S3c061ba2bae34066b6ecaa21b30222e6x.jpg"></p>
+<p><img data-cke-saved-src="https://ae01.alicdn.com/kf/S52ded94ffd704913b2f163df459bea68l.jpg" src="https://ae01.alicdn.com/kf/S52ded94ffd704913b2f163df459bea68l.jpg"><img data-cke-saved-src="https://ae01.alicdn.com/kf/S88d5ae89afc446e8ab4a321dd94b05bbW.jpg" src="https://ae01.alicdn.com/kf/S88d5ae89afc446e8ab4a321dd94b05bbW.jpg"><img data-cke-saved-src="https://ae01.alicdn.com/kf/S079d91d7b0c742b8bdc3b027ea4e40feN.jpg" src="https://ae01.alicdn.com/kf/S079d91d7b0c742b8bdc3b027ea4e40feN.jpg"><img data-cke-saved-src="https://ae01.alicdn.com/kf/Sfe014218dc9e43f8bb0ad69a90f0692aE.jpg" src="https://ae01.alicdn.com/kf/Sfe014218dc9e43f8bb0ad69a90f0692aE.jpg"><img data-cke-saved-src="https://ae01.alicdn.com/kf/S4ef84cf16fe141d28d1683e8ece10f27I.jpg" src="https://ae01.alicdn.com/kf/S4ef84cf16fe141d28d1683e8ece10f27I.jpg"><img data-cke-saved-src="https://ae01.alicdn.com/kf/S4df65669f76e4848a4f47ec02532572fx.jpg" src="https://ae01.alicdn.com/kf/S4df65669f76e4848a4f47ec02532572fx.jpg"><img data-cke-saved-src="https://ae01.alicdn.com/kf/Scbcccac9e9204e88b8aaddf68d4a69f6k.jpg" src="https://ae01.alicdn.com/kf/Scbcccac9e9204e88b8aaddf68d4a69f6k.jpg"><img data-cke-saved-src="https://ae01.alicdn.com/kf/Sd8e1881c72c542f791e1a6840f151526l.jpg" src="https://ae01.alicdn.com/kf/Sd8e1881c72c542f791e1a6840f151526l.jpg"><img data-cke-saved-src="https://ae01.alicdn.com/kf/S4e57bbc254c24573870790f645bdaf86U.jpg" src="https://ae01.alicdn.com/kf/S4e57bbc254c24573870790f645bdaf86U.jpg"></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://mazentih.shop/products/7505780441294</id>
+      <title>Black / 4XL / Uk</title>
+      <s:price currency="BRL">49.99</s:price>
+      <s:sku>14:200004891#black16;200007763:201336100;5:200000990</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7505780441294</id>
+      <title>Black / XXXL / Uk</title>
+      <s:price currency="BRL">49.99</s:price>
+      <s:sku>14:200004891#black16;200007763:201336100;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7505780441294</id>
+      <title>Black / XXL / Uk</title>
+      <s:price currency="BRL">49.99</s:price>
+      <s:sku>14:200004891#black16;200007763:201336100;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7505780441294</id>
+      <title>Black / XL / Uk</title>
+      <s:price currency="BRL">49.99</s:price>
+      <s:sku>14:200004891#black16;200007763:201336100;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7505780441294</id>
+      <title>Black / L / Uk</title>
+      <s:price currency="BRL">49.99</s:price>
+      <s:sku>14:200004891#black16;200007763:201336100;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7505780441294</id>
+      <title>Black / M / Uk</title>
+      <s:price currency="BRL">49.99</s:price>
+      <s:sku>14:200004891#black16;200007763:201336100;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7505780441294</id>
+      <title>Black / S / Uk</title>
+      <s:price currency="BRL">49.99</s:price>
+      <s:sku>14:200004891#black16;200007763:201336100;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mazentih.shop/products/7505787158734</id>
+    <published>2024-10-08T15:26:41+01:00</published>
+    <updated>2024-10-08T15:26:41+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://mazentih.shop/products/y2k-the-edge-of-night-oversize-vintage-hoodie"/>
+    <title>Y2K The Edge of Night OverSize Vintage Hoodie</title>
+    <s:type></s:type>
+    <s:vendor>MA ZENTIH</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0637/0944/6350/files/photo_2024-10-29_12-50-09.jpg?v=1730203504"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MA ZENTIH<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><br data-cke-eol="1"></p>
+<p><img src="https://ae01.alicdn.com/kf/Scd5c757ed10d410f85c2d391a16f9dedO.jpg" data-cke-saved-src="https://ae01.alicdn.com/kf/Scd5c757ed10d410f85c2d391a16f9dedO.jpg"></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p><img src="https://ae01.alicdn.com/kf/Scdcd3dcbe71e409796730f3e7f615e2aU.jpg" data-cke-saved-src="https://ae01.alicdn.com/kf/Scdcd3dcbe71e409796730f3e7f615e2aU.jpg"><img src="https://ae01.alicdn.com/kf/S3c061ba2bae34066b6ecaa21b30222e6x.jpg" data-cke-saved-src="https://ae01.alicdn.com/kf/S3c061ba2bae34066b6ecaa21b30222e6x.jpg"></p>
+<p><img src="https://ae01.alicdn.com/kf/S52ded94ffd704913b2f163df459bea68l.jpg" data-cke-saved-src="https://ae01.alicdn.com/kf/S52ded94ffd704913b2f163df459bea68l.jpg"><img src="https://ae01.alicdn.com/kf/S88d5ae89afc446e8ab4a321dd94b05bbW.jpg" data-cke-saved-src="https://ae01.alicdn.com/kf/S88d5ae89afc446e8ab4a321dd94b05bbW.jpg"><img src="https://ae01.alicdn.com/kf/S079d91d7b0c742b8bdc3b027ea4e40feN.jpg" data-cke-saved-src="https://ae01.alicdn.com/kf/S079d91d7b0c742b8bdc3b027ea4e40feN.jpg"><img src="https://ae01.alicdn.com/kf/Sfe014218dc9e43f8bb0ad69a90f0692aE.jpg" data-cke-saved-src="https://ae01.alicdn.com/kf/Sfe014218dc9e43f8bb0ad69a90f0692aE.jpg"><img src="https://ae01.alicdn.com/kf/S4ef84cf16fe141d28d1683e8ece10f27I.jpg" data-cke-saved-src="https://ae01.alicdn.com/kf/S4ef84cf16fe141d28d1683e8ece10f27I.jpg"><img src="https://ae01.alicdn.com/kf/S4df65669f76e4848a4f47ec02532572fx.jpg" data-cke-saved-src="https://ae01.alicdn.com/kf/S4df65669f76e4848a4f47ec02532572fx.jpg"><img src="https://ae01.alicdn.com/kf/Scbcccac9e9204e88b8aaddf68d4a69f6k.jpg" data-cke-saved-src="https://ae01.alicdn.com/kf/Scbcccac9e9204e88b8aaddf68d4a69f6k.jpg"><img src="https://ae01.alicdn.com/kf/Sd8e1881c72c542f791e1a6840f151526l.jpg" data-cke-saved-src="https://ae01.alicdn.com/kf/Sd8e1881c72c542f791e1a6840f151526l.jpg"><img src="https://ae01.alicdn.com/kf/S4e57bbc254c24573870790f645bdaf86U.jpg" data-cke-saved-src="https://ae01.alicdn.com/kf/S4e57bbc254c24573870790f645bdaf86U.jpg"></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://mazentih.shop/products/7505787158734</id>
+      <title>Black / 4XL / BRASIL</title>
+      <s:price currency="BRL">49.99</s:price>
+      <s:sku>14:193#black2;200007763:201336100;5:200000990</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7505787158734</id>
+      <title>Black / XXXL / BRASIL</title>
+      <s:price currency="BRL">49.99</s:price>
+      <s:sku>14:193#black2;200007763:201336100;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7505787158734</id>
+      <title>Black / XXL / BRASIL</title>
+      <s:price currency="BRL">49.99</s:price>
+      <s:sku>14:193#black2;200007763:201336100;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7505787158734</id>
+      <title>Black / XL / BRASIL</title>
+      <s:price currency="BRL">49.99</s:price>
+      <s:sku>14:193#black2;200007763:201336100;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7505787158734</id>
+      <title>Black / L / BRASIL</title>
+      <s:price currency="BRL">49.99</s:price>
+      <s:sku>14:193#black2;200007763:201336100;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7505787158734</id>
+      <title>Black / M / BRASIL</title>
+      <s:price currency="BRL">49.99</s:price>
+      <s:sku>14:193#black2;200007763:201336100;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7505787158734</id>
+      <title>Black / S / BRASIL</title>
+      <s:price currency="BRL">49.99</s:price>
+      <s:sku>14:193#black2;200007763:201336100;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mazentih.shop/products/7490472378574</id>
+    <published>2024-08-29T21:47:49+01:00</published>
+    <updated>2024-08-29T21:47:49+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://mazentih.shop/products/winged-skull-oversized-vintage-hoodie"/>
+    <title>Winged Skull Oversized Vintage Hoodie</title>
+    <s:type></s:type>
+    <s:vendor>MA ZENTIH</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0637/0944/6350/files/photo_2024-10-29_12-50-04.jpg?v=1730202798"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MA ZENTIH<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1> </h1>
+<p> </p>
+<p><img src="https://ae01.alicdn.com/kf/Sa3941358b08745098c4a2282645bccd3H.jpg"><img src="https://ae01.alicdn.com/kf/S88bf16c97f354e5ba4efbb9e90dba2247.jpg"><img src="https://ae01.alicdn.com/kf/S0b7669a3866648869e4e18a2f69304ceW.jpg"><img src="https://ae01.alicdn.com/kf/S347393c86d9a436ca8a332a21ba3b15fa.jpg"><img src="https://ae01.alicdn.com/kf/S01bc0598a2db46f1975d2ea92118149bt.jpg"><img src="https://ae01.alicdn.com/kf/S14e03f816954410697510f23cbd38163B.jpg"><img src="https://ae01.alicdn.com/kf/Sec1cfae65db347d8bb1a6bf04b67a92cE.jpg"><img src="https://ae01.alicdn.com/kf/S5a9cc616bddb4f5eb9dc7926fa1a0f83X.jpg"></p>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://mazentih.shop/products/7490472378574</id>
+      <title>Black / XXL</title>
+      <s:price currency="BRL">49.99</s:price>
+      <s:sku>14:200003699#AF587C Black21;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7490472378574</id>
+      <title>Black / XXXL</title>
+      <s:price currency="BRL">49.99</s:price>
+      <s:sku>14:200003699#AF587C Black21;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7490472378574</id>
+      <title>Black / L</title>
+      <s:price currency="BRL">49.99</s:price>
+      <s:sku>14:200003699#AF587C Black21;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7490472378574</id>
+      <title>Black / XL</title>
+      <s:price currency="BRL">49.99</s:price>
+      <s:sku>14:200003699#AF587C Black21;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7490472378574</id>
+      <title>Black / S</title>
+      <s:price currency="BRL">49.99</s:price>
+      <s:sku>14:200003699#AF587C Black21;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7490472378574</id>
+      <title>Black / M</title>
+      <s:price currency="BRL">49.99</s:price>
+      <s:sku>14:200003699#AF587C Black21;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mazentih.shop/products/7490468774094</id>
+    <published>2024-08-29T21:36:54+01:00</published>
+    <updated>2024-08-29T21:36:54+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://mazentih.shop/products/flaming-katana-oversized-vintage-hoodie"/>
+    <title>flaming katana Oversized Vintage Hoodie</title>
+    <s:type></s:type>
+    <s:vendor>MA ZENTIH</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0637/0944/6350/files/photo_2024-10-29_12-50-14.jpg?v=1730203664"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MA ZENTIH<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1> </h1>
+<p> </p>
+<p><img src="https://ae01.alicdn.com/kf/Sa3941358b08745098c4a2282645bccd3H.jpg"><img src="https://ae01.alicdn.com/kf/S88bf16c97f354e5ba4efbb9e90dba2247.jpg"><img src="https://ae01.alicdn.com/kf/S0b7669a3866648869e4e18a2f69304ceW.jpg"><img src="https://ae01.alicdn.com/kf/S347393c86d9a436ca8a332a21ba3b15fa.jpg"><img src="https://ae01.alicdn.com/kf/S01bc0598a2db46f1975d2ea92118149bt.jpg"><img src="https://ae01.alicdn.com/kf/S14e03f816954410697510f23cbd38163B.jpg"><img src="https://ae01.alicdn.com/kf/Sec1cfae65db347d8bb1a6bf04b67a92cE.jpg"><img src="https://ae01.alicdn.com/kf/S5a9cc616bddb4f5eb9dc7926fa1a0f83X.jpg"></p>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://mazentih.shop/products/7490468774094</id>
+      <title>Black / XXL</title>
+      <s:price currency="BRL">49.99</s:price>
+      <s:sku>14:1052#AF594 Black14;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7490468774094</id>
+      <title>Black / XXXL</title>
+      <s:price currency="BRL">49.99</s:price>
+      <s:sku>14:1052#AF594 Black14;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7490468774094</id>
+      <title>Black / L</title>
+      <s:price currency="BRL">49.99</s:price>
+      <s:sku>14:1052#AF594 Black14;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7490468774094</id>
+      <title>Black / XL</title>
+      <s:price currency="BRL">49.99</s:price>
+      <s:sku>14:1052#AF594 Black14;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7490468774094</id>
+      <title>Black / S</title>
+      <s:price currency="BRL">49.99</s:price>
+      <s:sku>14:1052#AF594 Black14;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7490468774094</id>
+      <title>Black / M</title>
+      <s:price currency="BRL">49.99</s:price>
+      <s:sku>14:1052#AF594 Black14;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mazentih.shop/products/7490441806030</id>
+    <published>2024-08-29T17:51:17+01:00</published>
+    <updated>2024-08-29T17:51:17+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://mazentih.shop/products/y2k-print-hoodie"/>
+    <title>Y2k Oversized Vintage Hoodie</title>
+    <s:type></s:type>
+    <s:vendor>MA ZENTIH</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0637/0944/6350/files/photo_2024-10-29_12-50-03_2.jpg?v=1730202691"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MA ZENTIH<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1> </h1>
+<p> </p>
+<p> </p>
+<p> </p>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://mazentih.shop/products/7490441806030</id>
+      <title>Black s1 / XXL</title>
+      <s:price currency="BRL">49.99</s:price>
+      <s:sku>14:193#AF253C Black;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7490441806030</id>
+      <title>Black s1 / XL</title>
+      <s:price currency="BRL">49.99</s:price>
+      <s:sku>14:193#AF253C Black;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7490441806030</id>
+      <title>Black s1 / L</title>
+      <s:price currency="BRL">49.99</s:price>
+      <s:sku>14:193#AF253C Black;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7490441806030</id>
+      <title>Black s1 / M</title>
+      <s:price currency="BRL">49.99</s:price>
+      <s:sku>14:193#AF253C Black;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7490441806030</id>
+      <title>Black s1 / S</title>
+      <s:price currency="BRL">49.99</s:price>
+      <s:sku>14:193#AF253C Black;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7490441806030</id>
+      <title>Black s2 / XXXL</title>
+      <s:price currency="BRL">49.99</s:price>
+      <s:sku>14:771#AF253C Black;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7490441806030</id>
+      <title>Black s2 / XXL</title>
+      <s:price currency="BRL">49.99</s:price>
+      <s:sku>14:771#AF253C Black;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7490441806030</id>
+      <title>Black s2 / XL</title>
+      <s:price currency="BRL">49.99</s:price>
+      <s:sku>14:771#AF253C Black;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7490441806030</id>
+      <title>Black s1 / XXXL</title>
+      <s:price currency="BRL">49.99</s:price>
+      <s:sku>14:193#AF253C Black;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7490441806030</id>
+      <title>Black s2 / L</title>
+      <s:price currency="BRL">49.99</s:price>
+      <s:sku>14:771#AF253C Black;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7490441806030</id>
+      <title>Black s2 / M</title>
+      <s:price currency="BRL">49.99</s:price>
+      <s:sku>14:771#AF253C Black;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7490441806030</id>
+      <title>Black s2 / S</title>
+      <s:price currency="BRL">49.99</s:price>
+      <s:sku>14:771#AF253C Black;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mazentih.shop/products/7490439741646</id>
+    <published>2024-08-29T17:22:26+01:00</published>
+    <updated>2024-08-29T17:22:26+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://mazentih.shop/products/y2k-oversized-vintage-hoodie-1"/>
+    <title>Y2k Oversized Vintage Hoodie</title>
+    <s:type></s:type>
+    <s:vendor>MA ZENTIH</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0637/0944/6350/files/photo_2024-10-29_12-50-03.jpg?v=1730202642"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MA ZENTIH<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1> </h1>
+<p> </p>
+<p><img src="https://ae01.alicdn.com/kf/Scd5c757ed10d410f85c2d391a16f9dedO.jpg" data-cke-saved-src="https://ae01.alicdn.com/kf/Scd5c757ed10d410f85c2d391a16f9dedO.jpg"></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p><img src="https://ae01.alicdn.com/kf/Scdcd3dcbe71e409796730f3e7f615e2aU.jpg" data-cke-saved-src="https://ae01.alicdn.com/kf/Scdcd3dcbe71e409796730f3e7f615e2aU.jpg"><img src="https://ae01.alicdn.com/kf/S3c061ba2bae34066b6ecaa21b30222e6x.jpg" data-cke-saved-src="https://ae01.alicdn.com/kf/S3c061ba2bae34066b6ecaa21b30222e6x.jpg"></p>
+<p><img src="https://ae01.alicdn.com/kf/S52ded94ffd704913b2f163df459bea68l.jpg" data-cke-saved-src="https://ae01.alicdn.com/kf/S52ded94ffd704913b2f163df459bea68l.jpg"><img src="https://ae01.alicdn.com/kf/S88d5ae89afc446e8ab4a321dd94b05bbW.jpg" data-cke-saved-src="https://ae01.alicdn.com/kf/S88d5ae89afc446e8ab4a321dd94b05bbW.jpg"><img src="https://ae01.alicdn.com/kf/S079d91d7b0c742b8bdc3b027ea4e40feN.jpg" data-cke-saved-src="https://ae01.alicdn.com/kf/S079d91d7b0c742b8bdc3b027ea4e40feN.jpg"><img src="https://ae01.alicdn.com/kf/Sfe014218dc9e43f8bb0ad69a90f0692aE.jpg" data-cke-saved-src="https://ae01.alicdn.com/kf/Sfe014218dc9e43f8bb0ad69a90f0692aE.jpg"><img src="https://ae01.alicdn.com/kf/S4ef84cf16fe141d28d1683e8ece10f27I.jpg" data-cke-saved-src="https://ae01.alicdn.com/kf/S4ef84cf16fe141d28d1683e8ece10f27I.jpg"><img src="https://ae01.alicdn.com/kf/S4df65669f76e4848a4f47ec02532572fx.jpg" data-cke-saved-src="https://ae01.alicdn.com/kf/S4df65669f76e4848a4f47ec02532572fx.jpg"><img src="https://ae01.alicdn.com/kf/Scbcccac9e9204e88b8aaddf68d4a69f6k.jpg" data-cke-saved-src="https://ae01.alicdn.com/kf/Scbcccac9e9204e88b8aaddf68d4a69f6k.jpg"><img src="https://ae01.alicdn.com/kf/Sd8e1881c72c542f791e1a6840f151526l.jpg" data-cke-saved-src="https://ae01.alicdn.com/kf/Sd8e1881c72c542f791e1a6840f151526l.jpg"><img src="https://ae01.alicdn.com/kf/S4e57bbc254c24573870790f645bdaf86U.jpg" data-cke-saved-src="https://ae01.alicdn.com/kf/S4e57bbc254c24573870790f645bdaf86U.jpg"></p>
+<p> </p>
+<p><img src="https://ae01.alicdn.com/kf/S88bf16c97f354e5ba4efbb9e90dba2247.jpg"><img src="https://ae01.alicdn.com/kf/Saffaafd3d74247b8ae558c927e4bfdc38.jpg"><img src="https://ae01.alicdn.com/kf/S347393c86d9a436ca8a332a21ba3b15fa.jpg"><img src="https://ae01.alicdn.com/kf/S01bc0598a2db46f1975d2ea92118149bt.jpg"><img src="https://ae01.alicdn.com/kf/S14e03f816954410697510f23cbd38163B.jpg"><img src="https://ae01.alicdn.com/kf/Sec1cfae65db347d8bb1a6bf04b67a92cE.jpg"><img src="https://ae01.alicdn.com/kf/S5a9cc616bddb4f5eb9dc7926fa1a0f83X.jpg"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://mazentih.shop/products/7490439741646</id>
+      <title>Black / XXXL</title>
+      <s:price currency="BRL">49.99</s:price>
+      <s:sku>14:365458#AF731 Black;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7490439741646</id>
+      <title>Black / XXL</title>
+      <s:price currency="BRL">49.99</s:price>
+      <s:sku>14:365458#AF731 Black;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7490439741646</id>
+      <title>Black / XL</title>
+      <s:price currency="BRL">49.99</s:price>
+      <s:sku>14:365458#AF731 Black;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7490439741646</id>
+      <title>Black / L</title>
+      <s:price currency="BRL">49.99</s:price>
+      <s:sku>14:365458#AF731 Black;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7490439741646</id>
+      <title>Black / M</title>
+      <s:price currency="BRL">49.99</s:price>
+      <s:sku>14:365458#AF731 Black;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7490439741646</id>
+      <title>Black / S</title>
+      <s:price currency="BRL">49.99</s:price>
+      <s:sku>14:365458#AF731 Black;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mazentih.shop/products/7490267054286</id>
+    <published>2024-08-28T12:15:44+01:00</published>
+    <updated>2024-08-28T12:15:44+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://mazentih.shop/products/y2k-oversized-vintage-hoodie"/>
+    <title>Y2k Oversized Vintage Hoodie</title>
+    <s:type></s:type>
+    <s:vendor>MA ZENTIH</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0637/0944/6350/files/photo_2024-10-29_12-50-15.jpg?v=1730202625"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MA ZENTIH<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            49.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1> </h1>
+<p> </p>
+<p><img src="https://ae01.alicdn.com/kf/Scd5c757ed10d410f85c2d391a16f9dedO.jpg" data-cke-saved-src="https://ae01.alicdn.com/kf/Scd5c757ed10d410f85c2d391a16f9dedO.jpg"></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p><br></p>
+<p><img src="https://ae01.alicdn.com/kf/Scdcd3dcbe71e409796730f3e7f615e2aU.jpg" data-cke-saved-src="https://ae01.alicdn.com/kf/Scdcd3dcbe71e409796730f3e7f615e2aU.jpg"><img src="https://ae01.alicdn.com/kf/S3c061ba2bae34066b6ecaa21b30222e6x.jpg" data-cke-saved-src="https://ae01.alicdn.com/kf/S3c061ba2bae34066b6ecaa21b30222e6x.jpg"></p>
+<p><img src="https://ae01.alicdn.com/kf/S52ded94ffd704913b2f163df459bea68l.jpg" data-cke-saved-src="https://ae01.alicdn.com/kf/S52ded94ffd704913b2f163df459bea68l.jpg"><img src="https://ae01.alicdn.com/kf/S88d5ae89afc446e8ab4a321dd94b05bbW.jpg" data-cke-saved-src="https://ae01.alicdn.com/kf/S88d5ae89afc446e8ab4a321dd94b05bbW.jpg"><img src="https://ae01.alicdn.com/kf/S079d91d7b0c742b8bdc3b027ea4e40feN.jpg" data-cke-saved-src="https://ae01.alicdn.com/kf/S079d91d7b0c742b8bdc3b027ea4e40feN.jpg"><img src="https://ae01.alicdn.com/kf/Sfe014218dc9e43f8bb0ad69a90f0692aE.jpg" data-cke-saved-src="https://ae01.alicdn.com/kf/Sfe014218dc9e43f8bb0ad69a90f0692aE.jpg"><img src="https://ae01.alicdn.com/kf/S4ef84cf16fe141d28d1683e8ece10f27I.jpg" data-cke-saved-src="https://ae01.alicdn.com/kf/S4ef84cf16fe141d28d1683e8ece10f27I.jpg"><img src="https://ae01.alicdn.com/kf/S4df65669f76e4848a4f47ec02532572fx.jpg" data-cke-saved-src="https://ae01.alicdn.com/kf/S4df65669f76e4848a4f47ec02532572fx.jpg"><img src="https://ae01.alicdn.com/kf/Scbcccac9e9204e88b8aaddf68d4a69f6k.jpg" data-cke-saved-src="https://ae01.alicdn.com/kf/Scbcccac9e9204e88b8aaddf68d4a69f6k.jpg"><img src="https://ae01.alicdn.com/kf/Sd8e1881c72c542f791e1a6840f151526l.jpg" data-cke-saved-src="https://ae01.alicdn.com/kf/Sd8e1881c72c542f791e1a6840f151526l.jpg"><img src="https://ae01.alicdn.com/kf/S4e57bbc254c24573870790f645bdaf86U.jpg" data-cke-saved-src="https://ae01.alicdn.com/kf/S4e57bbc254c24573870790f645bdaf86U.jpg"></p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://mazentih.shop/products/7490267054286</id>
+      <title>Black s1 / S</title>
+      <s:price currency="BRL">49.99</s:price>
+      <s:sku>14:350850#KUIHD055 Black;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7490267054286</id>
+      <title>Black s1 / L</title>
+      <s:price currency="BRL">49.99</s:price>
+      <s:sku>14:350850#KUIHD055 Black;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7490267054286</id>
+      <title>Black s1 / M</title>
+      <s:price currency="BRL">49.99</s:price>
+      <s:sku>14:350850#KUIHD055 Black;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7490267054286</id>
+      <title>Black s1 / XXXL</title>
+      <s:price currency="BRL">49.99</s:price>
+      <s:sku>14:350850#KUIHD055 Black;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7490267054286</id>
+      <title>Black s1 / XXL</title>
+      <s:price currency="BRL">49.99</s:price>
+      <s:sku>14:350850#KUIHD055 Black;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7490267054286</id>
+      <title>Black s1 / XL</title>
+      <s:price currency="BRL">49.99</s:price>
+      <s:sku>14:350850#KUIHD055 Black;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

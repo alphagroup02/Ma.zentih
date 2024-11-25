@@ -1,0 +1,2592 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://mazentih.shop/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://mazentih.shop/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://mazentih.shop/collections/compression-short-sleeve.atom"/>
+  <title>MA ZENTIH</title>
+  <updated>2024-10-30T12:43:25+01:00</updated>
+  <author>
+    <name>MA ZENTIH</name>
+  </author>
+  <entry>
+    <id>https://mazentih.shop/products/7518541316302</id>
+    <published>2024-10-30T12:43:25+01:00</published>
+    <updated>2024-10-30T12:43:25+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://mazentih.shop/products/y2k-gym-compression-shirt-mens-running-workout-bodybuilding-summer-t-shirt-quick-dry-long-sleeves-sportwaer-tight-top-tee"/>
+    <title>Havoc Compression T-shirts Short Sleeve</title>
+    <s:type></s:type>
+    <s:vendor>MA ZENTIH</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0637/0944/6350/files/photo_2024-10-30_12-41-16.jpg?v=1730288521"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MA ZENTIH<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            26.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1> </h1>
+<p><img data-cke-saved-src="https://ae01.alicdn.com/kf/S737108732ca1474fa538195cb9005d05a.jpg" src="https://ae01.alicdn.com/kf/S737108732ca1474fa538195cb9005d05a.jpg"><img data-cke-saved-src="https://ae01.alicdn.com/kf/Saac18d40959d4d66a99d7a4a708b0924W.jpg" src="https://ae01.alicdn.com/kf/Saac18d40959d4d66a99d7a4a708b0924W.jpg"></p>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://mazentih.shop/products/7518541316302</id>
+      <title>Black / S</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:350850#black-jinDX01;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7518541316302</id>
+      <title>Black / L</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:350850#black-jinDX01;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7518541316302</id>
+      <title>Black / M</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:350850#black-jinDX01;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7518541316302</id>
+      <title>Black / XXL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:350850#black-jinDX01;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7518541316302</id>
+      <title>Black / XL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:350850#black-jinDX01;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7518541316302</id>
+      <title>White / S</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:691#white-jinDX01;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7518541316302</id>
+      <title>Black / XXXL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:350850#black-jinDX01;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7518541316302</id>
+      <title>White / L</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:691#white-jinDX01;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7518541316302</id>
+      <title>White / M</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:691#white-jinDX01;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7518541316302</id>
+      <title>White / XXL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:691#white-jinDX01;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7518541316302</id>
+      <title>White / XL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:691#white-jinDX01;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7518541316302</id>
+      <title>White / XXXL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:691#white-jinDX01;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mazentih.shop/products/7518540071118</id>
+    <published>2024-10-30T12:36:58+01:00</published>
+    <updated>2024-10-30T12:36:58+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://mazentih.shop/products/2024-mens-new-compression-shirt-fitness-gym-rashgard-sports-running-t-shirt-waterproof-top-quick-drying-short-sleeved-t-shirt"/>
+    <title>Wave scribble Compression T-Shirt Short Sleeve</title>
+    <s:type></s:type>
+    <s:vendor>MA ZENTIH</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0637/0944/6350/files/photo_2024-10-30_12-33-37.jpg?v=1730288026"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MA ZENTIH<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            26.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1> </h1>
+<p><img data-cke-saved-src="https://ae01.alicdn.com/kf/S0716b468c8394f2f9307ae184b7ab3d8S.jpg" src="https://ae01.alicdn.com/kf/S0716b468c8394f2f9307ae184b7ab3d8S.jpg"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://mazentih.shop/products/7518540071118</id>
+      <title>White / L</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:173#White;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7518540071118</id>
+      <title>Black / XL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:771#Black;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7518540071118</id>
+      <title>White / XL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:173#White;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7518540071118</id>
+      <title>Black / M</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:771#Black;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7518540071118</id>
+      <title>White / M</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:173#White;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7518540071118</id>
+      <title>Black / L</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:771#Black;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7518540071118</id>
+      <title>Black / S</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:771#Black;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7518540071118</id>
+      <title>White / S</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:173#White;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7518540071118</id>
+      <title>White / XXXL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:173#White;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7518540071118</id>
+      <title>Black / XXL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:771#Black;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7518540071118</id>
+      <title>White / XXL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:173#White;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7518540071118</id>
+      <title>Black / XXXL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:771#Black;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mazentih.shop/products/7518536597710</id>
+    <published>2024-10-30T12:18:15+01:00</published>
+    <updated>2024-10-30T12:18:15+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://mazentih.shop/products/training-and-exercise-t-shirt-compression-sweatshirt-short-sleeve-mens-fitness-running-quick-dry-top-gym-workout-bodybuilding-1"/>
+    <title>Silhouette compression Short sleeve</title>
+    <s:type></s:type>
+    <s:vendor>MA ZENTIH</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0637/0944/6350/files/photo_2024-10-30_12-15-39.jpg?v=1730286957"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MA ZENTIH<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            26.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><img data-cke-saved-src="https://ae01.alicdn.com/kf/S737108732ca1474fa538195cb9005d05a.jpg" src="https://ae01.alicdn.com/kf/S737108732ca1474fa538195cb9005d05a.jpg"></p>
+<p><img data-cke-saved-src="https://ae01.alicdn.com/kf/Saac18d40959d4d66a99d7a4a708b0924W.jpg" src="https://ae01.alicdn.com/kf/Saac18d40959d4d66a99d7a4a708b0924W.jpg"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://mazentih.shop/products/7518536597710</id>
+      <title>White B / S</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:200004890#8;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7518536597710</id>
+      <title>White B / M</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:200004890#8;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7518536597710</id>
+      <title>White B / XXL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:200004890#8;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7518536597710</id>
+      <title>White B / XXXL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:200004890#8;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7518536597710</id>
+      <title>White B / L</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:200004890#8;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7518536597710</id>
+      <title>White B / XL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:200004890#8;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7518536597710</id>
+      <title>White R / L</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:175#9;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7518536597710</id>
+      <title>White R / XL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:175#9;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7518536597710</id>
+      <title>White R / S</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:175#9;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7518536597710</id>
+      <title>White R / M</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:175#9;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7518536597710</id>
+      <title>White R / XXL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:175#9;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7518536597710</id>
+      <title>White R / XXXL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:175#9;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7518536597710</id>
+      <title>Black W / L</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:771#2;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7518536597710</id>
+      <title>Black W / XL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:771#2;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7518536597710</id>
+      <title>Black W / S</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:771#2;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7518536597710</id>
+      <title>Black W / M</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:771#2;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7518536597710</id>
+      <title>Black R / S</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:193#1;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7518536597710</id>
+      <title>Black R / M</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:193#1;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7518536597710</id>
+      <title>Black W / XXL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:771#2;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7518536597710</id>
+      <title>Black W / XXXL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:771#2;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7518536597710</id>
+      <title>Black R / XXL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:193#1;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7518536597710</id>
+      <title>Black R / XXXL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:193#1;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7518536597710</id>
+      <title>Black R / L</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:193#1;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7518536597710</id>
+      <title>Black R / XL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:193#1;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7518536597710</id>
+      <title>Black B / L</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:173#3;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7518536597710</id>
+      <title>Black B / XL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:173#3;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7518536597710</id>
+      <title>Black B / S</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:173#3;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7518536597710</id>
+      <title>Black B / M</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:173#3;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7518536597710</id>
+      <title>Black B / XXL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:173#3;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7518536597710</id>
+      <title>Black B / XXXL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:173#3;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mazentih.shop/products/7501076136142</id>
+    <published>2024-10-29T10:03:22+01:00</published>
+    <updated>2024-10-29T10:03:22+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://mazentih.shop/products/dark-blood-scribble-compression-t-shirt-short-sleeve"/>
+    <title>Dark Blood Scribble Compression T-Shirt Short Sleeve</title>
+    <s:type></s:type>
+    <s:vendor>MA ZENTIH</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0637/0944/6350/files/photo_2024-10-29_10-08-03.jpg?v=1730192897"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MA ZENTIH<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            26.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1> </h1>
+<p> </p>
+<p>modname=images&amp;cols=1&amp;colspace=10&amp;rowspace=10&amp;align=center</p>
+<p><img src="https://ae01.alicdn.com/kf/S0716b468c8394f2f9307ae184b7ab3d8S.jpg"></p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p><img src="https://ae01.alicdn.com/kf/S1f82946d37a941a89a1adf62acee0acbp.jpg"></p>
+<p><img src="https://ae01.alicdn.com/kf/S9883325abc9f4e4490a63138a46295edH.jpg"></p>
+<p><img src="https://ae01.alicdn.com/kf/S62247300da4442369231c127b4dd7b60f.jpg"></p>
+<p><img src="https://ae01.alicdn.com/kf/S56ca80573d144e549235a9ec9ba349c3O.jpg"></p>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://mazentih.shop/products/7501076136142</id>
+      <title>White / M</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:771#Black;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7501076136142</id>
+      <title>White / L</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:771#Black;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7501076136142</id>
+      <title>White / XL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:771#Black;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7501076136142</id>
+      <title>White / XXL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:771#Black;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7501076136142</id>
+      <title>White / S</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:771#Black;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7501076136142</id>
+      <title>White / XXXL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:771#Black;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7501076136142</id>
+      <title>Black / M</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:193#White;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7501076136142</id>
+      <title>Black / L</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:193#White;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7501076136142</id>
+      <title>Black / XL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:193#White;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7501076136142</id>
+      <title>Black / XXL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:193#White;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7501076136142</id>
+      <title>Black / S</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:193#White;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7501076136142</id>
+      <title>Black / XXXL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:193#White;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mazentih.shop/products/7505842897102</id>
+    <published>2024-10-08T19:16:11+01:00</published>
+    <updated>2024-10-08T19:16:11+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://mazentih.shop/products/mens-quick-drying-short-sleeve-gym-running-wet-sweat-round-neck-t-shirt-training-gym-sports-shirt-top-long-sleeve"/>
+    <title>Devil&apos;s Thorns  Compression T-Shirt Short Sleeve</title>
+    <s:type></s:type>
+    <s:vendor>MA ZENTIH</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0637/0944/6350/files/photo_2024-10-29_09-17-54.jpg?v=1730193069"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MA ZENTIH<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            26.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1> </h1>
+<p> </p>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://mazentih.shop/products/7505842897102</id>
+      <title>White Black / XL / BRASIL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:350853#18;200007763:201336100;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7505842897102</id>
+      <title>White Black / L / BRASIL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:350853#18;200007763:201336100;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7505842897102</id>
+      <title>White Black / XXXL / BRASIL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:350853#18;200007763:201336100;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7505842897102</id>
+      <title>White Black / XXL / BRASIL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:350853#18;200007763:201336100;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7505842897102</id>
+      <title>White Black / M / BRASIL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:350853#18;200007763:201336100;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7505842897102</id>
+      <title>White Black / S / BRASIL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:350853#18;200007763:201336100;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7505842897102</id>
+      <title>Full Black / XL / BRASIL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:1052#14;200007763:201336100;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7505842897102</id>
+      <title>Full Black / L / BRASIL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:1052#14;200007763:201336100;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7505842897102</id>
+      <title>Full Black / XXXL / BRASIL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:1052#14;200007763:201336100;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7505842897102</id>
+      <title>Full Black / XXL / BRASIL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:1052#14;200007763:201336100;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7505842897102</id>
+      <title>Full Black / M / BRASIL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:1052#14;200007763:201336100;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7505842897102</id>
+      <title>Full Black / S / BRASIL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:1052#14;200007763:201336100;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mazentih.shop/products/7434587930830</id>
+    <published>2024-10-07T15:28:38+01:00</published>
+    <updated>2024-10-07T15:28:38+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://mazentih.shop/products/six-pathes-compression-t-shirt-short-sleeve"/>
+    <title>Six Pathes Compression T-shirt Short sleeve</title>
+    <s:type></s:type>
+    <s:vendor>Ma Zentih</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0637/0944/6350/files/photo_2024-10-29_09-17-56.jpg?v=1730192975"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ma Zentih<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            26.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1> </h1>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p> </p>
+<p><img src="https://ae01.alicdn.com/kf/S3f7ac1e19ec049a596d25d0329a4425cX.jpg"><img src="https://ae01.alicdn.com/kf/S7fd99214748240e992659a2600a878dd0.jpg"><img src="https://ae01.alicdn.com/kf/S344149c88b4645e6acfde8b11ab3f0c35.jpg" style="margin-bottom:0px; margin-left:0px; margin-right:0px; margin-top:0px; margin:0px"><img src="https://ae01.alicdn.com/kf/S6741066009864e289a2f9e3bc9e15df3J.jpg" style="margin-bottom:0px; margin-left:0px; margin-right:0px; margin-top:0px; margin:0px"><img src="https://ae01.alicdn.com/kf/S3f335791103140b9b24b8aa260ea9f6co.jpg" style="margin-bottom:0px; margin-left:0px; margin-right:0px; margin-top:0px; margin:0px"><img src="https://ae01.alicdn.com/kf/Sbdbb193dfcca4e1da363f67247a86f95L.jpg" style="margin-bottom:0px; margin-left:0px; margin-right:0px; margin-top:0px; margin:0px"><img src="https://ae01.alicdn.com/kf/S91fe81f1e2d643d1b3dd5dfa76b2658eU.jpg" style="margin-bottom:0px; margin-left:0px; margin-right:0px; margin-top:0px; margin:0px"><img src="https://ae01.alicdn.com/kf/Safef9eb1c40d49f59491886234acfdeaO.jpg" style="margin-bottom:0px; margin-left:0px; margin-right:0px; margin-top:0px; margin:0px"></p>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://mazentih.shop/products/7434587930830</id>
+      <title>Black White / XXXL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:193#Black Short Sleeve;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7434587930830</id>
+      <title>Black White / XXL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:193#Black Short Sleeve;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7434587930830</id>
+      <title>Black White / XL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:193#Black Short Sleeve;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7434587930830</id>
+      <title>Black White / L</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:193#Black Short Sleeve;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7434587930830</id>
+      <title>White Black / XL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:173#White Short Sleeve;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7434587930830</id>
+      <title>White Black / L</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:173#White Short Sleeve;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7434587930830</id>
+      <title>White Black / M</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:173#White Short Sleeve;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7434587930830</id>
+      <title>White Black / S</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:173#White Short Sleeve;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7434587930830</id>
+      <title>White Black / XXXL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:173#White Short Sleeve;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7434587930830</id>
+      <title>White Black / XXL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:173#White Short Sleeve;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7434587930830</id>
+      <title>Black White / M</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:193#Black Short Sleeve;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7434587930830</id>
+      <title>Black White / S</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:193#Black Short Sleeve;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7434587930830</id>
+      <title>Red Black / M</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:350850#Red Short Sleeve;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7434587930830</id>
+      <title>Red Black / S</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:350850#Red Short Sleeve;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7434587930830</id>
+      <title>Red Black / XXXL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:350850#Red Short Sleeve;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7434587930830</id>
+      <title>Red Black / XXL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:350850#Red Short Sleeve;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7434587930830</id>
+      <title>Red Black / XL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:350850#Red Short Sleeve;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7434587930830</id>
+      <title>Red Black / L</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:350850#Red Short Sleeve;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mazentih.shop/products/7467454759118</id>
+    <published>2024-10-07T15:27:21+01:00</published>
+    <updated>2024-10-07T15:27:21+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://mazentih.shop/products/sasuke-curse-compression-t-shirt-short-sleeve"/>
+    <title>Curse Compression T-Shirt Short Sleeve</title>
+    <s:type></s:type>
+    <s:vendor>MA ZENTIH</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0637/0944/6350/files/photo_2024-10-29_09-17-40.jpg?v=1730191493"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MA ZENTIH<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1> </h1>
+<p> </p>
+<p> </p>
+<p><img src="https://ae01.alicdn.com/kf/S079f700caf8c45c798d12ba7fc3ef653b.jpg" style="margin-bottom:0px; margin-left:0px; margin-right:0px; margin-top:0px; margin:0px">  </p>
+<p><br>
+ </p>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://mazentih.shop/products/7467454759118</id>
+      <title>Purple / XL</title>
+      <s:price currency="BRL">28.00</s:price>
+      <s:sku>14:200001438#Purple Short Sleeve;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7467454759118</id>
+      <title>Purple / XXL</title>
+      <s:price currency="BRL">28.00</s:price>
+      <s:sku>14:200001438#Purple Short Sleeve;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7467454759118</id>
+      <title>Purple / XXXL</title>
+      <s:price currency="BRL">28.00</s:price>
+      <s:sku>14:200001438#Purple Short Sleeve;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7467454759118</id>
+      <title>Purple / S</title>
+      <s:price currency="BRL">28.00</s:price>
+      <s:sku>14:200001438#Purple Short Sleeve;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7467454759118</id>
+      <title>Purple / M</title>
+      <s:price currency="BRL">28.00</s:price>
+      <s:sku>14:200001438#Purple Short Sleeve;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7467454759118</id>
+      <title>Purple / L</title>
+      <s:price currency="BRL">28.00</s:price>
+      <s:sku>14:200001438#Purple Short Sleeve;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7467454759118</id>
+      <title>Black / XL</title>
+      <s:price currency="BRL">28.00</s:price>
+      <s:sku>14:200004889#Black Short Sleeve 1;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7467454759118</id>
+      <title>Black / XXL</title>
+      <s:price currency="BRL">28.00</s:price>
+      <s:sku>14:200004889#Black Short Sleeve 1;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7467454759118</id>
+      <title>Black / XXXL</title>
+      <s:price currency="BRL">28.00</s:price>
+      <s:sku>14:200004889#Black Short Sleeve 1;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7467454759118</id>
+      <title>Black / S</title>
+      <s:price currency="BRL">28.00</s:price>
+      <s:sku>14:200004889#Black Short Sleeve 1;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7467454759118</id>
+      <title>Black / M</title>
+      <s:price currency="BRL">28.00</s:price>
+      <s:sku>14:200004889#Black Short Sleeve 1;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7467454759118</id>
+      <title>Black / L</title>
+      <s:price currency="BRL">28.00</s:price>
+      <s:sku>14:200004889#Black Short Sleeve 1;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7467454759118</id>
+      <title>White / XL</title>
+      <s:price currency="BRL">28.00</s:price>
+      <s:sku>14:200004890#White Short Sleeve 1;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7467454759118</id>
+      <title>White / XXL</title>
+      <s:price currency="BRL">28.00</s:price>
+      <s:sku>14:200004890#White Short Sleeve 1;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7467454759118</id>
+      <title>White / XXXL</title>
+      <s:price currency="BRL">28.00</s:price>
+      <s:sku>14:200004890#White Short Sleeve 1;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7467454759118</id>
+      <title>White / S</title>
+      <s:price currency="BRL">28.00</s:price>
+      <s:sku>14:200004890#White Short Sleeve 1;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7467454759118</id>
+      <title>White / M</title>
+      <s:price currency="BRL">28.00</s:price>
+      <s:sku>14:200004890#White Short Sleeve 1;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7467454759118</id>
+      <title>White / L</title>
+      <s:price currency="BRL">28.00</s:price>
+      <s:sku>14:200004890#White Short Sleeve 1;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mazentih.shop/products/7486050205902</id>
+    <published>2024-08-14T00:07:10+01:00</published>
+    <updated>2024-08-14T00:07:10+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://mazentih.shop/products/thorns-tight-compression-t-shirt-short-sleeve"/>
+    <title>Thorns Tight Compression T-Shirt Short Sleeve</title>
+    <s:type></s:type>
+    <s:vendor>MA ZENTIH</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0637/0944/6350/files/photo_2024-10-29_09-17-12.jpg?v=1730190534"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MA ZENTIH<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            26.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1> </h1>
+<p> </p>
+<p><img src="https://ae01.alicdn.com/kf/Seeed523fd09346ed9251af657c590da7c.jpg"><img src="https://ae01.alicdn.com/kf/Sca9e4b2f2b294e509992f10dded1296bi.jpg"><img src="https://ae01.alicdn.com/kf/Sba5d48530d294038b0a81d63467260f8i.jpg"><img src="https://ae01.alicdn.com/kf/S10105c6427e043eb84d978db212a52acA.jpg"><img src="https://ae01.alicdn.com/kf/S9d7adb1219164aca8789a61a4d6ac198u.jpg"><img src="https://ae01.alicdn.com/kf/Sf626b84df8634df29ad8ddf0ab11f952D.jpg"></p>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://mazentih.shop/products/7486050205902</id>
+      <title>black white / S</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:771#black;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7486050205902</id>
+      <title>black white / M</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:771#black;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7486050205902</id>
+      <title>black white / L</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:771#black;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7486050205902</id>
+      <title>black white / XL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:771#black;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7486050205902</id>
+      <title>black red / L</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:193#black;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7486050205902</id>
+      <title>black red / XL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:193#black;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7486050205902</id>
+      <title>black red / XXL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:193#black;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7486050205902</id>
+      <title>black red / XXXL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:193#black;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7486050205902</id>
+      <title>black white / XXL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:771#black;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7486050205902</id>
+      <title>black white / XXXL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:771#black;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7486050205902</id>
+      <title>black red / S</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:193#black;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7486050205902</id>
+      <title>black red / M</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:193#black;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7486050205902</id>
+      <title>white red / L</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:200004890#white;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7486050205902</id>
+      <title>white red / XL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:200004890#white;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7486050205902</id>
+      <title>white red / XXL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:200004890#white;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7486050205902</id>
+      <title>white red / XXXL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:200004890#white;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7486050205902</id>
+      <title>white black / XXL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:691#white;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7486050205902</id>
+      <title>white black / XXXL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:691#white;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7486050205902</id>
+      <title>white red / S</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:200004890#white;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7486050205902</id>
+      <title>white red / M</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:200004890#white;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7486050205902</id>
+      <title>white black / S</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:691#white;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7486050205902</id>
+      <title>white black / M</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:691#white;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7486050205902</id>
+      <title>white black / L</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:691#white;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7486050205902</id>
+      <title>white black / XL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:691#white;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mazentih.shop/products/7478101901518</id>
+    <published>2024-07-20T08:11:31+01:00</published>
+    <updated>2024-07-20T08:11:31+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://mazentih.shop/products/kaneki-compression-t-shirts-short-sleeve"/>
+    <title>Ken Compression T-shirts Short sleeve</title>
+    <s:type></s:type>
+    <s:vendor>MA ZENTIH</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0637/0944/6350/files/photo_2024-10-29_09-17-31.jpg?v=1730191867"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MA ZENTIH<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            26.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1> </h1>
+<p> </p>
+<p> </p>
+<p><img src="https://ae01.alicdn.com/kf/Scafb338b1984403b865d548e72e32bb9V.jpg"><img src="https://ae01.alicdn.com/kf/S6a10d81d8a394ec5ae5ad0eb48d50b27t.jpg"><img src="https://ae01.alicdn.com/kf/Sbacd3016fc6c4046b20c31a3aa2658630.jpg"><img src="https://ae01.alicdn.com/kf/Sf1cd8847d5464656a8046b3c67b76c52b.jpg"><img src="https://ae01.alicdn.com/kf/S1535cb6b13434b83848a0f0879e80b3f4.jpg"><img src="https://ae01.alicdn.com/kf/S6741066009864e289a2f9e3bc9e15df3J.jpg" style="margin: 0px;"><img src="https://ae01.alicdn.com/kf/S3f335791103140b9b24b8aa260ea9f6co.jpg" style="margin: 0px;"><img src="https://ae01.alicdn.com/kf/Sbdbb193dfcca4e1da363f67247a86f95L.jpg" style="margin: 0px;"><img src="https://ae01.alicdn.com/kf/S91fe81f1e2d643d1b3dd5dfa76b2658eU.jpg" style="margin: 0px;"><img src="https://ae01.alicdn.com/kf/Safef9eb1c40d49f59491886234acfdeaO.jpg" style="margin: 0px;"></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://mazentih.shop/products/7478101901518</id>
+      <title>White / L</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:173#White Short Sleeve;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7478101901518</id>
+      <title>White / M</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:173#White Short Sleeve;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7478101901518</id>
+      <title>White / S</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:173#White Short Sleeve;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7478101901518</id>
+      <title>Black / XXXL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:193#Black Short Sleeve;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7478101901518</id>
+      <title>Black / XXL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:193#Black Short Sleeve;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7478101901518</id>
+      <title>Black / XL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:193#Black Short Sleeve;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7478101901518</id>
+      <title>Black / L</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:193#Black Short Sleeve;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7478101901518</id>
+      <title>Black / M</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:193#Black Short Sleeve;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7478101901518</id>
+      <title>Black / S</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:193#Black Short Sleeve;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7478101901518</id>
+      <title>Gray / XXXL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:1254#Gray Short Sleeve;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7478101901518</id>
+      <title>Gray / XXL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:1254#Gray Short Sleeve;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7478101901518</id>
+      <title>Gray / XL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:1254#Gray Short Sleeve;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7478101901518</id>
+      <title>Gray / L</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:1254#Gray Short Sleeve;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7478101901518</id>
+      <title>Gray / M</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:1254#Gray Short Sleeve;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7478101901518</id>
+      <title>Gray / S</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:1254#Gray Short Sleeve;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7478101901518</id>
+      <title>White / XXXL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:173#White Short Sleeve;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7478101901518</id>
+      <title>White / XXL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:173#White Short Sleeve;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7478101901518</id>
+      <title>White / XL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:173#White Short Sleeve;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mazentih.shop/products/7474170822862</id>
+    <published>2024-07-15T08:26:11+01:00</published>
+    <updated>2024-07-15T08:26:11+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://mazentih.shop/products/goat-y2k-compression-t-shirt-short-sleeve"/>
+    <title>Goat Y2K Compression T-Shirt Short Sleeve</title>
+    <s:type></s:type>
+    <s:vendor>MA ZENTIH</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0637/0944/6350/files/photo_2024-10-29_09-17-50.jpg?v=1730192001"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MA ZENTIH<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            26.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1> </h1>
+<p> </p>
+<p><img src="https://ae01.alicdn.com/kf/S81cfee2a6c3c4067a7fee844c3152deeW.jpg"><img src="https://ae01.alicdn.com/kf/Sd9eb8926e4064d20b3582022541c4185u.jpg"><img src="https://ae01.alicdn.com/kf/S21bf464d470448a3badd4122aaf286a8E.jpg"><img src="https://ae01.alicdn.com/kf/S07d0f80d7ec24dda9262aa85497ca26cF.jpg"><img src="https://ae01.alicdn.com/kf/S0f46e647208a44189d6276a5360198e6Q.jpg"><img src="https://ae01.alicdn.com/kf/S2a75b60d354545bcb98dece1f9b9cf24U.jpg"></p>
+<p> </p>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://mazentih.shop/products/7474170822862</id>
+      <title>White / M</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:175#1White;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7474170822862</id>
+      <title>White / S</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:175#1White;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7474170822862</id>
+      <title>black / XXXL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:771#1black;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7474170822862</id>
+      <title>black / XXL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:771#1black;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7474170822862</id>
+      <title>black / XL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:771#1black;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7474170822862</id>
+      <title>black / L</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:771#1black;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7474170822862</id>
+      <title>black / M</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:771#1black;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7474170822862</id>
+      <title>black / S</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:771#1black;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7474170822862</id>
+      <title>grey / XXXL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:200002130#1grey;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7474170822862</id>
+      <title>grey / XXL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:200002130#1grey;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7474170822862</id>
+      <title>grey / XL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:200002130#1grey;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7474170822862</id>
+      <title>grey / L</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:200002130#1grey;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7474170822862</id>
+      <title>grey / M</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:200002130#1grey;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7474170822862</id>
+      <title>grey / S</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:200002130#1grey;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7474170822862</id>
+      <title>White / XXXL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:175#1White;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7474170822862</id>
+      <title>White / XXL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:175#1White;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7474170822862</id>
+      <title>White / XL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:175#1White;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7474170822862</id>
+      <title>White / L</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:175#1White;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mazentih.shop/products/7466554654926</id>
+    <published>2024-07-02T22:41:24+01:00</published>
+    <updated>2024-07-02T22:41:24+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://mazentih.shop/products/butterfly-compression-t-shirt-short-sleeve"/>
+    <title>Butterfly Compression T-Shirt Short Sleeve</title>
+    <s:type></s:type>
+    <s:vendor>MA ZENTIH</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0637/0944/6350/files/photo_2024-10-29_09-17-48.jpg?v=1730191739"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MA ZENTIH<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            26.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1> </h1>
+<p> </p>
+<p><img src="https://ae01.alicdn.com/kf/S68d743efe9a04639a27f9a1afe930bcdD.jpg"><img src="https://ae01.alicdn.com/kf/S6cdd3ac2b593487ea5702c66831bbccaN.jpg"><img src="https://ae01.alicdn.com/kf/S1e98d79b301a4ec18bda3e93a33ba6daA.jpg"><img src="https://ae01.alicdn.com/kf/S6692878aca604e568dffa7e5b49409c5T.jpg"></p>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://mazentih.shop/products/7466554654926</id>
+      <title>Black / XXXL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:771#1;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7466554654926</id>
+      <title>Black / S</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:771#1;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7466554654926</id>
+      <title>Black / XL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:771#1;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7466554654926</id>
+      <title>Black / XXL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:771#1;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7466554654926</id>
+      <title>Black / M</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:771#1;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7466554654926</id>
+      <title>Black / L</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:771#1;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7466554654926</id>
+      <title>white / XXXL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:173#3;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7466554654926</id>
+      <title>white / S</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:173#3;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7466554654926</id>
+      <title>white / XL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:173#3;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7466554654926</id>
+      <title>white / XXL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:173#3;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7466554654926</id>
+      <title>white / M</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:173#3;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7466554654926</id>
+      <title>white / L</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:173#3;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7466554654926</id>
+      <title>Purple / XXXL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:691#7;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7466554654926</id>
+      <title>Purple / S</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:691#7;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7466554654926</id>
+      <title>Purple / XL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:691#7;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7466554654926</id>
+      <title>Purple / XXL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:691#7;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7466554654926</id>
+      <title>Purple / M</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:691#7;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7466554654926</id>
+      <title>Purple / L</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:691#7;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mazentih.shop/products/7464838922446</id>
+    <published>2024-06-29T09:01:33+01:00</published>
+    <updated>2024-06-29T09:01:33+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://mazentih.shop/products/monster-smile-compression-t-shirt-short-sleeve"/>
+    <title>Monster Smile Compression T-shirt Short Sleeve</title>
+    <s:type></s:type>
+    <s:vendor>MA ZENTIH</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0637/0944/6350/files/photo_2024-10-29_09-17-08.jpg?v=1730191800"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MA ZENTIH<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            26.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1> </h1>
+<p> </p>
+<p><img src="https://ae01.alicdn.com/kf/S77a85f308b7747ee8be353510ff3227c3.jpg"><img src="https://ae01.alicdn.com/kf/S9a1702b151c84ed2a1f87b6888c72f00N.jpg"><img src="https://ae01.alicdn.com/kf/S7a013999db514da6ad68ffeba6eff0afc.jpg"><img src="https://ae01.alicdn.com/kf/Sdcfaf26b52ef4631b856c361803b8280m.jpg"><img src="https://ae01.alicdn.com/kf/Se41f88fcb59c4ab9896af16202e53326M.jpg"><img src="https://ae01.alicdn.com/kf/S71af23ac383c46e9b045de1523001a83y.jpg"><img src="https://ae01.alicdn.com/kf/S86ed044040c04dc2b7e28e86966262ee2.jpg"></p>
+<p> </p>
+<p> </p>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://mazentih.shop/products/7464838922446</id>
+      <title>Black / M</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:193#Black-JIANK033D;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7464838922446</id>
+      <title>Black / S</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:193#Black-JIANK033D;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7464838922446</id>
+      <title>Black / XL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:193#Black-JIANK033D;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7464838922446</id>
+      <title>Black / L</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:193#Black-JIANK033D;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7464838922446</id>
+      <title>Black / XXXL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:193#Black-JIANK033D;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7464838922446</id>
+      <title>Black / XXL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:193#Black-JIANK033D;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7464838922446</id>
+      <title>Grey / M</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:173#Grey-JIANK033D;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7464838922446</id>
+      <title>Grey / S</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:173#Grey-JIANK033D;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7464838922446</id>
+      <title>Grey / XL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:173#Grey-JIANK033D;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7464838922446</id>
+      <title>Grey / L</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:173#Grey-JIANK033D;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7464838922446</id>
+      <title>Grey / XXXL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:173#Grey-JIANK033D;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7464838922446</id>
+      <title>Grey / XXL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:173#Grey-JIANK033D;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mazentih.shop/products/7456361283790</id>
+    <published>2024-06-20T13:06:53+01:00</published>
+    <updated>2024-06-20T13:06:53+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://mazentih.shop/products/scribble-compression-t-shirt-short-sleeve"/>
+    <title>scribble Compression T-Shirt  Short Sleeve</title>
+    <s:type></s:type>
+    <s:vendor>MA ZENTIH</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0637/0944/6350/files/photo_2024-10-29_09-17-09_2.jpg?v=1730189910"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>MA ZENTIH<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            26.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1> </h1>
+<p> </p>
+<p><img src="https://ae01.alicdn.com/kf/S1c3a4735bfa44cfaa98bd8853aa4089eO.jpg"></p>
+<p> </p>
+<p><img src="https://ae01.alicdn.com/kf/S2021c4a1a95a4366825e7fff8e1d46b6p.jpg"><img src="https://ae01.alicdn.com/kf/Sb2581131f90244129e199ad673bf6561A.jpg"><img src="https://ae01.alicdn.com/kf/S59785cf4b91f49aba67235d9e44e1c9aV.jpg"></p>
+<p><br>
+ </p>
+<p><br>
+ </p>
+<p><br>
+ </p>
+<p><br>
+ </p>
+<p> </p>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://mazentih.shop/products/7456361283790</id>
+      <title>Black Red / L / BRASIL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:1254#4;200007763:201336100;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7456361283790</id>
+      <title>Black Red / XL / BRASIL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:1254#4;200007763:201336100;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7456361283790</id>
+      <title>Black Red / XXL / BRASIL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:1254#4;200007763:201336100;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7456361283790</id>
+      <title>Black Red / XXXL / BRASIL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:1254#4;200007763:201336100;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7456361283790</id>
+      <title>Black Red / S / BRASIL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:1254#4;200007763:201336100;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7456361283790</id>
+      <title>Black Red / M / BRASIL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:1254#4;200007763:201336100;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7456361283790</id>
+      <title>Black White / L / BRASIL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:173#3;200007763:201336100;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7456361283790</id>
+      <title>Black White / XL / BRASIL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:173#3;200007763:201336100;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7456361283790</id>
+      <title>Black White / XXL / BRASIL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:173#3;200007763:201336100;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7456361283790</id>
+      <title>Black White / XXXL / BRASIL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:173#3;200007763:201336100;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7456361283790</id>
+      <title>Black White / S / BRASIL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:173#3;200007763:201336100;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7456361283790</id>
+      <title>Black White / M / BRASIL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:173#3;200007763:201336100;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7456361283790</id>
+      <title>White Red / L / BRASIL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:193#2;200007763:201336100;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7456361283790</id>
+      <title>White Red / XL / BRASIL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:193#2;200007763:201336100;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7456361283790</id>
+      <title>White Red / XXL / BRASIL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:193#2;200007763:201336100;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7456361283790</id>
+      <title>White Red / XXXL / BRASIL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:193#2;200007763:201336100;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7456361283790</id>
+      <title>White Red / S / BRASIL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:193#2;200007763:201336100;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7456361283790</id>
+      <title>White Red / M / BRASIL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:193#2;200007763:201336100;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7456361283790</id>
+      <title>White Black / L / BRASIL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:771#1;200007763:201336100;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7456361283790</id>
+      <title>White Black / XL / BRASIL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:771#1;200007763:201336100;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7456361283790</id>
+      <title>White Black / XXL / BRASIL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:771#1;200007763:201336100;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7456361283790</id>
+      <title>White Black / XXXL / BRASIL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:771#1;200007763:201336100;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7456361283790</id>
+      <title>White Black / S / BRASIL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:771#1;200007763:201336100;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7456361283790</id>
+      <title>White Black / M / BRASIL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:771#1;200007763:201336100;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mazentih.shop/products/7434594222286</id>
+    <published>2024-05-28T01:30:49+01:00</published>
+    <updated>2024-05-28T01:30:49+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://mazentih.shop/products/kurapika-compression-t-shirt"/>
+    <title>winged structure compression T-shirt</title>
+    <s:type></s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0637/0944/6350/files/photo_2024-10-29_09-17-36.jpg?v=1730190622"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Store<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            26.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="detailmodule_html">
+<div class="detail-desc-decorate-richtext">
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div>
+<div style="color: #222222; margin: 0px 0px 16px 0px; padding: 0px; width: 984px; box-sizing: border-box;">
+<div style="margin: 0px; padding: 0px; max-width: 984px; width: 984px; box-sizing: border-box;">
+<div style="background-color: #f2f2f2; margin: 0px; padding: 0px; box-sizing: border-box;">
+<div style="margin: 0px; padding: 0px; box-sizing: border-box;">
+<div style="margin: 0px; padding: 0px; box-sizing: border-box;">
+<div style="background-color: #ffffff; margin: 0px 0px 16px 0px; padding: 20px; overflow: hidden; width: 984px; position: relative; box-sizing: border-box;" id="product-description">
+<div style="margin: 0px; padding: 0px; box-sizing: border-box;">
+<div style="margin: 0px; padding: 0px; box-sizing: content-box;">
+<div style="margin: 0px; padding: 0px; box-sizing: content-box;">
+<div style="margin: 0px; padding: 0px; box-sizing: content-box;">
+<div style="margin: 0px; padding: 0px; box-sizing: content-box;">
+<p style="line-height: inherit; margin: 0px; padding: 0px; box-sizing: border-box;"><br></p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<p><img src="https://ae01.alicdn.com/kf/S9f41191ce1a74b6c8b180bc6e2684ff4v.jpg"></p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://mazentih.shop/products/7434594222286</id>
+      <title>Black / S</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:350852#9;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7434594222286</id>
+      <title>Black / M</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:350852#9;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7434594222286</id>
+      <title>Black / L</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:350852#9;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7434594222286</id>
+      <title>Black / XL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:350852#9;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7434594222286</id>
+      <title>Black / XXL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:350852#9;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7434594222286</id>
+      <title>Black / XXXL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:350852#9;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7434594222286</id>
+      <title>White / S</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:1052#10;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7434594222286</id>
+      <title>White / M</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:1052#10;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7434594222286</id>
+      <title>White / L</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:1052#10;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7434594222286</id>
+      <title>White / XL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:1052#10;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7434594222286</id>
+      <title>White / XXL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:1052#10;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7434594222286</id>
+      <title>White / XXXL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:1052#10;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7434594222286</id>
+      <title>Grey / S</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:10#12;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7434594222286</id>
+      <title>Grey / M</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:10#12;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7434594222286</id>
+      <title>Grey / L</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:10#12;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7434594222286</id>
+      <title>Grey / XL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:10#12;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7434594222286</id>
+      <title>Grey / XXL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:10#12;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7434594222286</id>
+      <title>Grey / XXXL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:10#12;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mazentih.shop/products/7434594189518</id>
+    <published>2024-05-28T01:30:36+01:00</published>
+    <updated>2024-05-28T01:30:36+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://mazentih.shop/products/compression-t-shirt"/>
+    <title>Compression T-Shirt</title>
+    <s:type></s:type>
+    <s:vendor>My Store</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0637/0944/6350/files/photo_2024-10-29_09-17-45.jpg?v=1730193250"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>My Store<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            22.90
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1> </h1>
+<p> </p>
+<p><strong>Size Information:</strong></p>
+<p> </p>
+<p><strong>Size "S"</strong></p>
+<p><strong>Length: 68CM, Bust: 41CM,</strong></p>
+<p><strong>Fit Tips: Height 150-155CM, Weight 45-50KG;</strong></p>
+<p> </p>
+<p><strong>Size "M"</strong></p>
+<p><strong>Length: 69CM, Bust: 43CM,</strong></p>
+<p><strong>Fit Tips: Height 155-165CM, Weight 51-60KG;</strong></p>
+<p> </p>
+<p><strong>Size "L"</strong></p>
+<p><strong>Length: 70CM, Bust: 45CM,</strong></p>
+<p><strong>Fit Tips: Height 165-175CM, Weight 61-70KG;</strong></p>
+<p> </p>
+<p><strong>Size "XL"</strong></p>
+<p><strong>Length: 71CM, Bust: 47CM,</strong></p>
+<p><strong>Fit Tips: Height 175-180CM, Weight 71-80KG;</strong></p>
+<p> </p>
+<p><strong>Size "2XL"</strong></p>
+<p><strong>Length: 72CM, Bust: 49CM,</strong></p>
+<p><strong>Fit Tips: Height 180-185CM, Weight 81-88KG;</strong></p>
+<p> </p>
+<p><strong>Size "3XL"</strong></p>
+<p><strong>Length: 73CM, Bust: 51CM,</strong></p>
+<p><strong>Fit Tips: Height 185-190CM, Weight 89-96KG;</strong></p>
+<p> </p>
+<p><strong> This T-shirt is "Asian size", it is 1-2 sizes smaller than EU/US size. </strong></p>
+<p> </p>
+<p> </p>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://mazentih.shop/products/7434594189518</id>
+      <title>Black / L ( 61-70 Kg )</title>
+      <s:price currency="BRL">22.90</s:price>
+      <s:sku>5:361385#L Fit ( 61-70 Kg );14:193#1507-Black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7434594189518</id>
+      <title>Black / XL ( 71-80 Kg )</title>
+      <s:price currency="BRL">22.90</s:price>
+      <s:sku>5:100014065#XL Fit ( 71-80 Kg );14:193#1507-Black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7434594189518</id>
+      <title>Black / 2XL ( 81-88 Kg )</title>
+      <s:price currency="BRL">22.90</s:price>
+      <s:sku>5:4182#2XL Fit ( 81-88 Kg );14:193#1507-Black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7434594189518</id>
+      <title>Black / 3XL  ( 89-96Kg )</title>
+      <s:price currency="BRL">22.90</s:price>
+      <s:sku>5:4183#3XL Fit ( 89-96Kg );14:193#1507-Black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7434594189518</id>
+      <title>Black / S ( 45-50 Kg )</title>
+      <s:price currency="BRL">22.90</s:price>
+      <s:sku>5:100014064#S Fit ( 45-50 Kg );14:193#1507-Black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7434594189518</id>
+      <title>Black / M  ( 51-60 Kg )</title>
+      <s:price currency="BRL">22.90</s:price>
+      <s:sku>5:361386#M Fit ( 51-60 Kg );14:193#1507-Black</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7434594189518</id>
+      <title>White / L ( 61-70 Kg )</title>
+      <s:price currency="BRL">22.90</s:price>
+      <s:sku>5:361385#L Fit ( 61-70 Kg );14:29#1507-White</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7434594189518</id>
+      <title>White / XL ( 71-80 Kg )</title>
+      <s:price currency="BRL">22.90</s:price>
+      <s:sku>5:100014065#XL Fit ( 71-80 Kg );14:29#1507-White</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7434594189518</id>
+      <title>White / 2XL ( 81-88 Kg )</title>
+      <s:price currency="BRL">22.90</s:price>
+      <s:sku>5:4182#2XL Fit ( 81-88 Kg );14:29#1507-White</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7434594189518</id>
+      <title>White / 3XL  ( 89-96Kg )</title>
+      <s:price currency="BRL">22.90</s:price>
+      <s:sku>5:4183#3XL Fit ( 89-96Kg );14:29#1507-White</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7434594189518</id>
+      <title>White / S ( 45-50 Kg )</title>
+      <s:price currency="BRL">22.90</s:price>
+      <s:sku>5:100014064#S Fit ( 45-50 Kg );14:29#1507-White</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7434594189518</id>
+      <title>White / M  ( 51-60 Kg )</title>
+      <s:price currency="BRL">22.90</s:price>
+      <s:sku>5:361386#M Fit ( 51-60 Kg );14:29#1507-White</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7434594189518</id>
+      <title>Gray / L ( 61-70 Kg )</title>
+      <s:price currency="BRL">22.90</s:price>
+      <s:sku>5:361385#L Fit ( 61-70 Kg );14:691#1507-Gray</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7434594189518</id>
+      <title>Gray / XL ( 71-80 Kg )</title>
+      <s:price currency="BRL">22.90</s:price>
+      <s:sku>5:100014065#XL Fit ( 71-80 Kg );14:691#1507-Gray</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7434594189518</id>
+      <title>Gray / 2XL ( 81-88 Kg )</title>
+      <s:price currency="BRL">22.90</s:price>
+      <s:sku>5:4182#2XL Fit ( 81-88 Kg );14:691#1507-Gray</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7434594189518</id>
+      <title>Gray / 3XL  ( 89-96Kg )</title>
+      <s:price currency="BRL">22.90</s:price>
+      <s:sku>5:4183#3XL Fit ( 89-96Kg );14:691#1507-Gray</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7434594189518</id>
+      <title>Gray / S ( 45-50 Kg )</title>
+      <s:price currency="BRL">22.90</s:price>
+      <s:sku>5:100014064#S Fit ( 45-50 Kg );14:691#1507-Gray</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7434594189518</id>
+      <title>Gray / M  ( 51-60 Kg )</title>
+      <s:price currency="BRL">22.90</s:price>
+      <s:sku>5:361386#M Fit ( 51-60 Kg );14:691#1507-Gray</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://mazentih.shop/products/7434588422350</id>
+    <published>2024-05-28T01:08:48+01:00</published>
+    <updated>2024-05-28T01:08:48+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://mazentih.shop/products/y2k-compression-t-shirt-short-sleeve"/>
+    <title>Y2K Compression T-Shirt  Short Sleeve</title>
+    <s:type></s:type>
+    <s:vendor>Ma Zentih</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0637/0944/6350/files/photo_2024-10-29_09-17-31_2.jpg?v=1730191255"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ma Zentih<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            26.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h1> </h1>
+<p> </p>
+<p><img src="https://ae01.alicdn.com/kf/S77a85f308b7747ee8be353510ff3227c3.jpg"></p>
+<p> </p>
+<p> </p>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://mazentih.shop/products/7434588422350</id>
+      <title>White / XL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:193#Black-THK077D;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7434588422350</id>
+      <title>White / L</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:193#Black-THK077D;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7434588422350</id>
+      <title>White / XXXL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:193#Black-THK077D;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7434588422350</id>
+      <title>White / XXL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:193#Black-THK077D;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7434588422350</id>
+      <title>White / M</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:193#Black-THK077D;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7434588422350</id>
+      <title>White / S</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:193#Black-THK077D;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7434588422350</id>
+      <title>Grey / XL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:173#Grey-THK077D;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7434588422350</id>
+      <title>Grey / L</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:173#Grey-THK077D;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7434588422350</id>
+      <title>Grey / XXXL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:173#Grey-THK077D;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7434588422350</id>
+      <title>Grey / XXL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:173#Grey-THK077D;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7434588422350</id>
+      <title>Grey / M</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:173#Grey-THK077D;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7434588422350</id>
+      <title>Grey / S</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:173#Grey-THK077D;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7434588422350</id>
+      <title>Black / XL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:771#White-THK077D;5:100014065</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7434588422350</id>
+      <title>Black / L</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:771#White-THK077D;5:361385</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7434588422350</id>
+      <title>Black / XXXL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:771#White-THK077D;5:4183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7434588422350</id>
+      <title>Black / XXL</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:771#White-THK077D;5:4182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7434588422350</id>
+      <title>Black / M</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:771#White-THK077D;5:361386</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://mazentih.shop/products/7434588422350</id>
+      <title>Black / S</title>
+      <s:price currency="BRL">26.95</s:price>
+      <s:sku>14:771#White-THK077D;5:100014064</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
